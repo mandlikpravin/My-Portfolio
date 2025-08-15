@@ -17445,3 +17445,1165 @@
 [2025-08-15 07:30:51] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
 [2025-08-15 07:30:51] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-price-table.min.css
 [2025-08-15 07:30:51] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee22b67a11-zgFy0e.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-price-table.min.css
+[2025-08-15 07:30:51] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:30:51] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:30:51] [class-ss-page.php:128] Checking Content Identical:af8c224d049bb5d2e184d50dd80a4e9e39b74fea===af8c224d049bb5d2e184. Value: TRUE
+[2025-08-15 07:30:51] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-progress-tracker-rtl.min.css
+[2025-08-15 07:30:51] [class-ss-task.php:58] [PAGES STATUS] Remaining:24; Total: 1256
+[2025-08-15 07:30:51] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:30:51] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee22b96334-pOoCDK.tmp
+[2025-08-15 07:30:51] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-progress-tracker-rtl.min.css?simply_static_page=1136
+[2025-08-15 07:30:51] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-progress-tracker-rtl.min.css?simply_static_page=1136
+[2025-08-15 07:30:51] [class-ss-url-fetcher.php:103] Filesize: 2843 bytes
+[2025-08-15 07:30:51] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:30:51] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-progress-tracker-rtl.min.css
+[2025-08-15 07:30:51] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee22b96334-pOoCDK.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-progress-tracker-rtl.min.css
+[2025-08-15 07:30:51] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:30:51] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:30:51] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:30:51] [class-ss-page.php:128] Checking Content Identical:c0d9a39670b4ea0d7ac5f8efd3999ff82acf1b9a===c0d9a39670b4ea0d7ac5. Value: TRUE
+[2025-08-15 07:30:51] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-progress-tracker.min.css
+[2025-08-15 07:30:51] [class-ss-task.php:58] [PAGES STATUS] Remaining:23; Total: 1256
+[2025-08-15 07:30:51] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:30:51] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee22bc8c92-1R0Omb.tmp
+[2025-08-15 07:30:51] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-progress-tracker.min.css?simply_static_page=1137
+[2025-08-15 07:30:51] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-progress-tracker.min.css?simply_static_page=1137
+[2025-08-15 07:30:51] [class-ss-url-fetcher.php:103] Filesize: 2843 bytes
+[2025-08-15 07:30:51] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:30:51] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-progress-tracker.min.css
+[2025-08-15 07:30:51] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee22bc8c92-1R0Omb.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-progress-tracker.min.css
+[2025-08-15 07:30:51] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:30:51] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:30:51] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:30:51] [class-ss-page.php:128] Checking Content Identical:c0d9a39670b4ea0d7ac5f8efd3999ff82acf1b9a===c0d9a39670b4ea0d7ac5. Value: TRUE
+[2025-08-15 07:30:51] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-reviews-rtl.min.css
+[2025-08-15 07:30:51] [class-ss-task.php:58] [PAGES STATUS] Remaining:22; Total: 1256
+[2025-08-15 07:30:51] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:30:51] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee22bf0cbc-uOHZiD.tmp
+[2025-08-15 07:30:51] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-reviews-rtl.min.css?simply_static_page=1138
+[2025-08-15 07:30:51] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-reviews-rtl.min.css?simply_static_page=1138
+[2025-08-15 07:30:52] [class-ss-url-fetcher.php:103] Filesize: 7961 bytes
+[2025-08-15 07:30:52] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:30:52] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-reviews-rtl.min.css
+[2025-08-15 07:30:52] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee22bf0cbc-uOHZiD.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-reviews-rtl.min.css
+[2025-08-15 07:30:52] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:30:52] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:30:52] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:30:52] [class-ss-page.php:128] Checking Content Identical:84bc4f184885949861802ecf3a7fd630b08d061a===84bc4f18488594986180. Value: TRUE
+[2025-08-15 07:30:52] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-reviews.min.css
+[2025-08-15 07:30:52] [class-ss-task.php:58] [PAGES STATUS] Remaining:21; Total: 1256
+[2025-08-15 07:30:52] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:30:52] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee22c3a236-H5159q.tmp
+[2025-08-15 07:30:52] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-reviews.min.css?simply_static_page=1139
+[2025-08-15 07:30:52] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-reviews.min.css?simply_static_page=1139
+[2025-08-15 07:30:52] [class-ss-url-fetcher.php:103] Filesize: 7961 bytes
+[2025-08-15 07:30:52] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:30:52] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-reviews.min.css
+[2025-08-15 07:30:52] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee22c3a236-H5159q.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-reviews.min.css
+[2025-08-15 07:30:52] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:30:52] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:30:52] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:30:52] [class-ss-page.php:128] Checking Content Identical:84bc4f184885949861802ecf3a7fd630b08d061a===84bc4f18488594986180. Value: TRUE
+[2025-08-15 07:30:52] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-search-form-rtl.min.css
+[2025-08-15 07:30:52] [class-ss-task.php:58] [PAGES STATUS] Remaining:20; Total: 1256
+[2025-08-15 07:30:52] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:30:52] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee22c5de3a-tltUIK.tmp
+[2025-08-15 07:30:52] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-search-form-rtl.min.css?simply_static_page=1140
+[2025-08-15 07:30:52] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-search-form-rtl.min.css?simply_static_page=1140
+[2025-08-15 07:30:52] [class-ss-url-fetcher.php:103] Filesize: 4826 bytes
+[2025-08-15 07:30:52] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:30:52] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-search-form-rtl.min.css
+[2025-08-15 07:30:52] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee22c5de3a-tltUIK.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-search-form-rtl.min.css
+[2025-08-15 07:30:52] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:30:52] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:30:52] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:30:52] [class-ss-page.php:128] Checking Content Identical:2f94f4f535be614db9e6e2d415dd5c19b818c9e2===2f94f4f535be614db9e6. Value: TRUE
+[2025-08-15 07:30:52] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-search-form.min.css
+[2025-08-15 07:30:52] [class-ss-task.php:58] [PAGES STATUS] Remaining:19; Total: 1256
+[2025-08-15 07:30:52] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:30:52] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee22c6d455-vtCkiQ.tmp
+[2025-08-15 07:30:52] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-search-form.min.css?simply_static_page=1141
+[2025-08-15 07:30:52] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-search-form.min.css?simply_static_page=1141
+[2025-08-15 07:30:52] [class-ss-url-fetcher.php:103] Filesize: 4826 bytes
+[2025-08-15 07:30:52] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:30:52] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-search-form.min.css
+[2025-08-15 07:30:52] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee22c6d455-vtCkiQ.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-search-form.min.css
+[2025-08-15 07:30:52] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:30:52] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:30:52] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:30:52] [class-ss-page.php:128] Checking Content Identical:2f94f4f535be614db9e6e2d415dd5c19b818c9e2===2f94f4f535be614db9e6. Value: TRUE
+[2025-08-15 07:30:52] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-search-rtl.min.css
+[2025-08-15 07:30:52] [class-ss-task.php:58] [PAGES STATUS] Remaining:18; Total: 1256
+[2025-08-15 07:30:52] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:30:52] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee22c8f2b2-Uz6egS.tmp
+[2025-08-15 07:30:52] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-search-rtl.min.css?simply_static_page=1142
+[2025-08-15 07:30:52] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-search-rtl.min.css?simply_static_page=1142
+[2025-08-15 07:30:52] [class-ss-url-fetcher.php:103] Filesize: 13446 bytes
+[2025-08-15 07:30:52] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:30:52] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-search-rtl.min.css
+[2025-08-15 07:30:52] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee22c8f2b2-Uz6egS.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-search-rtl.min.css
+[2025-08-15 07:30:52] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:30:52] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:30:52] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:30:52] [class-ss-page.php:128] Checking Content Identical:ed4fbf8e89f13776522f7bae22eb58eedcba5d11===ed4fbf8e89f13776522f. Value: TRUE
+[2025-08-15 07:30:52] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-search.min.css
+[2025-08-15 07:30:52] [class-ss-task.php:58] [PAGES STATUS] Remaining:17; Total: 1256
+[2025-08-15 07:30:52] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:30:52] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee22ccfee4-pY0xyH.tmp
+[2025-08-15 07:30:52] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-search.min.css?simply_static_page=1143
+[2025-08-15 07:30:52] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-search.min.css?simply_static_page=1143
+[2025-08-15 07:30:52] [class-ss-url-fetcher.php:103] Filesize: 13446 bytes
+[2025-08-15 07:30:52] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:30:52] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-search.min.css
+[2025-08-15 07:30:52] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee22ccfee4-pY0xyH.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-search.min.css
+[2025-08-15 07:30:52] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:30:53] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:30:53] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:30:53] [class-ss-page.php:128] Checking Content Identical:ed4fbf8e89f13776522f7bae22eb58eedcba5d11===ed4fbf8e89f13776522f. Value: TRUE
+[2025-08-15 07:30:53] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-share-buttons-rtl.min.css
+[2025-08-15 07:30:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:16; Total: 1256
+[2025-08-15 07:30:53] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:30:53] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee22d11763-YxygXi.tmp
+[2025-08-15 07:30:53] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-share-buttons-rtl.min.css?simply_static_page=1144
+[2025-08-15 07:30:53] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-share-buttons-rtl.min.css?simply_static_page=1144
+[2025-08-15 07:30:53] [class-ss-url-fetcher.php:103] Filesize: 32682 bytes
+[2025-08-15 07:30:53] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:30:53] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-share-buttons-rtl.min.css
+[2025-08-15 07:30:53] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee22d11763-YxygXi.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-share-buttons-rtl.min.css
+[2025-08-15 07:30:53] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:30:53] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:30:53] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:30:53] [class-ss-page.php:128] Checking Content Identical:495400a9cb5a034c880cfd7b67bf4e5b7e911742===495400a9cb5a034c880c. Value: TRUE
+[2025-08-15 07:30:53] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-share-buttons.min.css
+[2025-08-15 07:30:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:15; Total: 1256
+[2025-08-15 07:30:53] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:30:53] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee22d5032d-4ZLc6M.tmp
+[2025-08-15 07:30:53] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-share-buttons.min.css?simply_static_page=1145
+[2025-08-15 07:30:53] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-share-buttons.min.css?simply_static_page=1145
+[2025-08-15 07:30:53] [class-ss-url-fetcher.php:103] Filesize: 32681 bytes
+[2025-08-15 07:30:53] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:30:53] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-share-buttons.min.css
+[2025-08-15 07:30:53] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee22d5032d-4ZLc6M.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-share-buttons.min.css
+[2025-08-15 07:30:53] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:30:53] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:30:53] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:30:53] [class-ss-page.php:128] Checking Content Identical:50ebab5cea4111e6400bc18e3a9d0754a6385443===50ebab5cea4111e6400b. Value: TRUE
+[2025-08-15 07:30:53] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-sitemap-rtl.min.css
+[2025-08-15 07:30:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:14; Total: 1256
+[2025-08-15 07:30:53] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:30:53] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee22da703c-nGMg61.tmp
+[2025-08-15 07:30:53] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-sitemap-rtl.min.css?simply_static_page=1146
+[2025-08-15 07:30:53] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-sitemap-rtl.min.css?simply_static_page=1146
+[2025-08-15 07:30:53] [class-ss-url-fetcher.php:103] Filesize: 99 bytes
+[2025-08-15 07:30:53] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:30:53] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-sitemap-rtl.min.css
+[2025-08-15 07:30:53] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee22da703c-nGMg61.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-sitemap-rtl.min.css
+[2025-08-15 07:30:53] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:30:53] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:30:53] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:30:53] [class-ss-page.php:128] Checking Content Identical:25ff05d7a78c39c88a0fe316b4fbb4da12312c50===25ff05d7a78c39c88a0f. Value: TRUE
+[2025-08-15 07:30:53] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-sitemap.min.css
+[2025-08-15 07:30:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:13; Total: 1256
+[2025-08-15 07:30:53] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:30:53] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee22dda4ec-lEN46j.tmp
+[2025-08-15 07:30:53] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-sitemap.min.css?simply_static_page=1147
+[2025-08-15 07:30:53] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-sitemap.min.css?simply_static_page=1147
+[2025-08-15 07:30:53] [class-ss-url-fetcher.php:103] Filesize: 99 bytes
+[2025-08-15 07:30:53] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:30:53] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-sitemap.min.css
+[2025-08-15 07:30:53] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee22dda4ec-lEN46j.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-sitemap.min.css
+[2025-08-15 07:30:53] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:30:53] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:30:53] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:30:54] [class-ss-page.php:128] Checking Content Identical:25ff05d7a78c39c88a0fe316b4fbb4da12312c50===25ff05d7a78c39c88a0f. Value: TRUE
+[2025-08-15 07:30:54] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-slides-rtl.min.css
+[2025-08-15 07:30:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:12; Total: 1256
+[2025-08-15 07:30:54] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:30:54] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee22e0eb16-sjE3DR.tmp
+[2025-08-15 07:30:54] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-slides-rtl.min.css?simply_static_page=1148
+[2025-08-15 07:30:54] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-slides-rtl.min.css?simply_static_page=1148
+[2025-08-15 07:30:54] [class-ss-url-fetcher.php:103] Filesize: 2385 bytes
+[2025-08-15 07:30:54] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:30:54] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-slides-rtl.min.css
+[2025-08-15 07:30:54] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee22e0eb16-sjE3DR.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-slides-rtl.min.css
+[2025-08-15 07:30:54] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:30:54] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:30:54] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:30:54] [class-ss-page.php:128] Checking Content Identical:48fc759431dd2c86fd1c74afffaadde1c1a1b886===48fc759431dd2c86fd1c. Value: TRUE
+[2025-08-15 07:30:54] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-slides.min.css
+[2025-08-15 07:30:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:11; Total: 1256
+[2025-08-15 07:30:54] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:30:54] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee22e27b7a-Fxk3tz.tmp
+[2025-08-15 07:30:54] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-slides.min.css?simply_static_page=1149
+[2025-08-15 07:30:54] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-slides.min.css?simply_static_page=1149
+[2025-08-15 07:30:54] [class-ss-url-fetcher.php:103] Filesize: 2385 bytes
+[2025-08-15 07:30:54] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:30:54] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-slides.min.css
+[2025-08-15 07:30:54] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee22e27b7a-Fxk3tz.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-slides.min.css
+[2025-08-15 07:30:54] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:30:54] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:30:54] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:30:54] [class-ss-page.php:128] Checking Content Identical:a810ec6e5b4ca9071f01a351d2f7639deac2cbfa===a810ec6e5b4ca9071f01. Value: TRUE
+[2025-08-15 07:30:54] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-social-rtl.min.css
+[2025-08-15 07:30:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:10; Total: 1256
+[2025-08-15 07:30:54] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:30:54] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee22e78836-BZdVNt.tmp
+[2025-08-15 07:30:54] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-social-rtl.min.css?simply_static_page=1150
+[2025-08-15 07:30:54] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-social-rtl.min.css?simply_static_page=1150
+[2025-08-15 07:30:54] [class-ss-url-fetcher.php:103] Filesize: 357 bytes
+[2025-08-15 07:30:54] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:30:54] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-social-rtl.min.css
+[2025-08-15 07:30:54] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee22e78836-BZdVNt.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-social-rtl.min.css
+[2025-08-15 07:30:54] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:30:54] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:30:54] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:30:54] [class-ss-page.php:128] Checking Content Identical:b62d43b5623cef3d59f1b4fe59b09d39d15ddcc4===b62d43b5623cef3d59f1. Value: TRUE
+[2025-08-15 07:30:54] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-social.min.css
+[2025-08-15 07:30:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:9; Total: 1256
+[2025-08-15 07:30:54] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:30:54] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee22e9e7d6-q6whOV.tmp
+[2025-08-15 07:30:54] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-social.min.css?simply_static_page=1151
+[2025-08-15 07:30:54] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-social.min.css?simply_static_page=1151
+[2025-08-15 07:30:54] [class-ss-url-fetcher.php:103] Filesize: 357 bytes
+[2025-08-15 07:30:54] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:30:54] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-social.min.css
+[2025-08-15 07:30:54] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee22e9e7d6-q6whOV.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-social.min.css
+[2025-08-15 07:30:54] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:30:54] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:30:54] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:30:54] [class-ss-page.php:128] Checking Content Identical:b62d43b5623cef3d59f1b4fe59b09d39d15ddcc4===b62d43b5623cef3d59f1. Value: TRUE
+[2025-08-15 07:30:54] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-table-of-contents-rtl.min.css
+[2025-08-15 07:30:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:8; Total: 1256
+[2025-08-15 07:30:54] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:30:54] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee22ecfa80-kDaDPV.tmp
+[2025-08-15 07:30:54] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-table-of-contents-rtl.min.css?simply_static_page=1152
+[2025-08-15 07:30:54] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-table-of-contents-rtl.min.css?simply_static_page=1152
+[2025-08-15 07:30:54] [class-ss-url-fetcher.php:103] Filesize: 4143 bytes
+[2025-08-15 07:30:54] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:30:54] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-table-of-contents-rtl.min.css
+[2025-08-15 07:30:54] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee22ecfa80-kDaDPV.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-table-of-contents-rtl.min.css
+[2025-08-15 07:30:54] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:30:55] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:30:55] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:30:55] [class-ss-page.php:128] Checking Content Identical:090d6c7434648c7e1a37d1915c70ef68f51d8f4f===090d6c7434648c7e1a37. Value: TRUE
+[2025-08-15 07:30:55] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-table-of-contents.min.css
+[2025-08-15 07:30:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:7; Total: 1256
+[2025-08-15 07:30:55] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:30:55] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee22f0c5b5-uF5lwQ.tmp
+[2025-08-15 07:30:55] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-table-of-contents.min.css?simply_static_page=1153
+[2025-08-15 07:30:55] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-table-of-contents.min.css?simply_static_page=1153
+[2025-08-15 07:30:55] [class-ss-url-fetcher.php:103] Filesize: 4143 bytes
+[2025-08-15 07:30:55] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:30:55] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-table-of-contents.min.css
+[2025-08-15 07:30:55] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee22f0c5b5-uF5lwQ.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-table-of-contents.min.css
+[2025-08-15 07:30:55] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:30:55] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:30:55] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:30:55] [class-ss-page.php:128] Checking Content Identical:090d6c7434648c7e1a37d1915c70ef68f51d8f4f===090d6c7434648c7e1a37. Value: TRUE
+[2025-08-15 07:30:55] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-testimonial-carousel-rtl.min.css
+[2025-08-15 07:30:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:6; Total: 1256
+[2025-08-15 07:30:55] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:30:55] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee22f2c2ef-TIwZ9q.tmp
+[2025-08-15 07:30:55] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-testimonial-carousel-rtl.min.css?simply_static_page=1154
+[2025-08-15 07:30:55] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-testimonial-carousel-rtl.min.css?simply_static_page=1154
+[2025-08-15 07:30:55] [class-ss-url-fetcher.php:103] Filesize: 20034 bytes
+[2025-08-15 07:30:55] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:30:55] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-testimonial-carousel-rtl.min.css
+[2025-08-15 07:30:55] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee22f2c2ef-TIwZ9q.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-testimonial-carousel-rtl.min.css
+[2025-08-15 07:30:55] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:30:55] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:30:55] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:30:55] [class-ss-page.php:128] Checking Content Identical:f3f9d4484a912166bdaff558701ca0deeb437bb0===f3f9d4484a912166bdaf. Value: TRUE
+[2025-08-15 07:30:55] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-testimonial-carousel.min.css
+[2025-08-15 07:30:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:5; Total: 1256
+[2025-08-15 07:30:55] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:30:55] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee22f729ec-nwiOGX.tmp
+[2025-08-15 07:30:55] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-testimonial-carousel.min.css?simply_static_page=1155
+[2025-08-15 07:30:55] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-testimonial-carousel.min.css?simply_static_page=1155
+[2025-08-15 07:30:55] [class-ss-url-fetcher.php:103] Filesize: 20034 bytes
+[2025-08-15 07:30:55] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:30:55] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-testimonial-carousel.min.css
+[2025-08-15 07:30:55] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee22f729ec-nwiOGX.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-testimonial-carousel.min.css
+[2025-08-15 07:30:55] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:30:55] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:30:55] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:30:55] [class-ss-page.php:128] Checking Content Identical:be9b053f7f7cf74f10d97a08a9c06b915ab4ec44===be9b053f7f7cf74f10d9. Value: TRUE
+[2025-08-15 07:30:55] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-video-playlist-rtl.min.css
+[2025-08-15 07:30:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:4; Total: 1256
+[2025-08-15 07:30:55] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:30:55] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee22faf9c5-M73TV6.tmp
+[2025-08-15 07:30:55] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-video-playlist-rtl.min.css?simply_static_page=1156
+[2025-08-15 07:30:55] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-video-playlist-rtl.min.css?simply_static_page=1156
+[2025-08-15 07:30:55] [class-ss-url-fetcher.php:103] Filesize: 10357 bytes
+[2025-08-15 07:30:55] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:30:55] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-video-playlist-rtl.min.css
+[2025-08-15 07:30:55] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee22faf9c5-M73TV6.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-video-playlist-rtl.min.css
+[2025-08-15 07:30:55] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:30:55] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:30:55] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:30:55] [class-ss-page.php:128] Checking Content Identical:4194a044bc7398fb345cf1907e0ec87c79585a08===4194a044bc7398fb345c. Value: TRUE
+[2025-08-15 07:30:56] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-video-playlist.min.css
+[2025-08-15 07:30:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:3; Total: 1256
+[2025-08-15 07:30:56] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:30:56] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee2300ee54-IbefMW.tmp
+[2025-08-15 07:30:56] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-video-playlist.min.css?simply_static_page=1157
+[2025-08-15 07:30:56] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-video-playlist.min.css?simply_static_page=1157
+[2025-08-15 07:30:56] [class-ss-url-fetcher.php:103] Filesize: 10357 bytes
+[2025-08-15 07:30:56] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:30:56] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-video-playlist.min.css
+[2025-08-15 07:30:56] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee2300ee54-IbefMW.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-video-playlist.min.css
+[2025-08-15 07:30:56] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:30:56] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:30:56] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:30:56] [class-ss-page.php:128] Checking Content Identical:4194a044bc7398fb345cf1907e0ec87c79585a08===4194a044bc7398fb345c. Value: TRUE
+[2025-08-15 07:30:56] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-cart-rtl.min.css
+[2025-08-15 07:30:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:2; Total: 1256
+[2025-08-15 07:30:56] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:30:56] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee23056aaa-8oeIlM.tmp
+[2025-08-15 07:30:56] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-cart-rtl.min.css?simply_static_page=1158
+[2025-08-15 07:30:56] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-cart-rtl.min.css?simply_static_page=1158
+[2025-08-15 07:30:56] [class-ss-url-fetcher.php:103] Filesize: 18907 bytes
+[2025-08-15 07:30:56] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:30:56] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-woocommerce-cart-rtl.min.css
+[2025-08-15 07:30:56] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee23056aaa-8oeIlM.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-cart-rtl.min.css
+[2025-08-15 07:30:56] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:30:56] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:30:56] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:30:56] [class-ss-page.php:128] Checking Content Identical:3284644731943a94e410b1bfb2626962ae002c01===3284644731943a94e410. Value: TRUE
+[2025-08-15 07:30:56] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-cart.min.css
+[2025-08-15 07:30:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:1; Total: 1256
+[2025-08-15 07:30:56] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:30:56] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee2308c2c8-9y8JI7.tmp
+[2025-08-15 07:30:56] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-cart.min.css?simply_static_page=1159
+[2025-08-15 07:30:56] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-cart.min.css?simply_static_page=1159
+[2025-08-15 07:30:56] [class-ss-url-fetcher.php:103] Filesize: 18906 bytes
+[2025-08-15 07:30:56] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:30:56] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-woocommerce-cart.min.css
+[2025-08-15 07:30:56] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee2308c2c8-9y8JI7.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-cart.min.css
+[2025-08-15 07:30:56] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:30:56] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:30:56] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:30:56] [class-ss-page.php:128] Checking Content Identical:ef180685f36b11a03414e926355aa2128cdeff0a===ef180685f36b11a03414. Value: TRUE
+[2025-08-15 07:30:56] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 1150 of 1256 pages/files
+[2025-08-15 07:30:56] [class-ss-archive-creation-job.php:241] We're not done with the fetch_urls task yet
+[2025-08-15 07:30:56] [class-ss-archive-creation-job.php:194] Current task: fetch_urls
+[2025-08-15 07:30:56] [class-ss-archive-creation-job.php:208] Performing task: fetch_urls
+[2025-08-15 07:30:56] [class-ss-fetch-urls-task.php:69] Total pages: 1256; Pages remaining: 56
+[2025-08-15 07:30:56] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-categories-rtl.min.css
+[2025-08-15 07:30:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:50; Total: 1256
+[2025-08-15 07:30:56] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:30:56] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee230e6873-lfFnBL.tmp
+[2025-08-15 07:30:56] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-categories-rtl.min.css?simply_static_page=1160
+[2025-08-15 07:30:56] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-categories-rtl.min.css?simply_static_page=1160
+[2025-08-15 07:30:57] [class-ss-url-fetcher.php:103] Filesize: 84 bytes
+[2025-08-15 07:30:57] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:30:57] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-woocommerce-categories-rtl.min.css
+[2025-08-15 07:30:57] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee230e6873-lfFnBL.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-categories-rtl.min.css
+[2025-08-15 07:30:57] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:30:57] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:30:57] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:30:57] [class-ss-page.php:128] Checking Content Identical:d55828f16aba5a026291c413c826fc4189bed736===d55828f16aba5a026291. Value: TRUE
+[2025-08-15 07:30:57] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-categories.min.css
+[2025-08-15 07:30:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:49; Total: 1256
+[2025-08-15 07:30:57] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:30:57] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee231427a7-BF0WrM.tmp
+[2025-08-15 07:30:57] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-categories.min.css?simply_static_page=1161
+[2025-08-15 07:30:57] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-categories.min.css?simply_static_page=1161
+[2025-08-15 07:30:57] [class-ss-url-fetcher.php:103] Filesize: 84 bytes
+[2025-08-15 07:30:57] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:30:57] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-woocommerce-categories.min.css
+[2025-08-15 07:30:57] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee231427a7-BF0WrM.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-categories.min.css
+[2025-08-15 07:30:57] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:30:57] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:30:57] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:30:57] [class-ss-page.php:128] Checking Content Identical:d55828f16aba5a026291c413c826fc4189bed736===d55828f16aba5a026291. Value: TRUE
+[2025-08-15 07:30:57] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-checkout-page-rtl.min.css
+[2025-08-15 07:30:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:48; Total: 1256
+[2025-08-15 07:30:57] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:30:57] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee2316f2a7-7ABANo.tmp
+[2025-08-15 07:30:57] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-checkout-page-rtl.min.css?simply_static_page=1162
+[2025-08-15 07:30:57] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-checkout-page-rtl.min.css?simply_static_page=1162
+[2025-08-15 07:30:57] [class-ss-url-fetcher.php:103] Filesize: 21626 bytes
+[2025-08-15 07:30:57] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:30:57] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-woocommerce-checkout-page-rtl.min.css
+[2025-08-15 07:30:57] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee2316f2a7-7ABANo.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-checkout-page-rtl.min.css
+[2025-08-15 07:30:57] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:30:57] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:30:57] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:30:57] [class-ss-page.php:128] Checking Content Identical:734c10ab6398cd6eb401d524022efafa36b17e4a===734c10ab6398cd6eb401. Value: TRUE
+[2025-08-15 07:30:57] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-checkout-page.min.css
+[2025-08-15 07:30:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:47; Total: 1256
+[2025-08-15 07:30:57] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:30:57] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee231b6d0c-TiEZ6F.tmp
+[2025-08-15 07:30:57] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-checkout-page.min.css?simply_static_page=1163
+[2025-08-15 07:30:57] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-checkout-page.min.css?simply_static_page=1163
+[2025-08-15 07:30:57] [class-ss-url-fetcher.php:103] Filesize: 21620 bytes
+[2025-08-15 07:30:57] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:30:57] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-woocommerce-checkout-page.min.css
+[2025-08-15 07:30:57] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee231b6d0c-TiEZ6F.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-checkout-page.min.css
+[2025-08-15 07:30:57] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:30:57] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:30:57] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:30:57] [class-ss-page.php:128] Checking Content Identical:201e46875dcd160583b21366f2ed2fed372452d5===201e46875dcd160583b2. Value: TRUE
+[2025-08-15 07:30:57] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-menu-cart-rtl.min.css
+[2025-08-15 07:30:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:46; Total: 1256
+[2025-08-15 07:30:57] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:30:57] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee231ea0ca-PRE1VA.tmp
+[2025-08-15 07:30:57] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-menu-cart-rtl.min.css?simply_static_page=1164
+[2025-08-15 07:30:57] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-menu-cart-rtl.min.css?simply_static_page=1164
+[2025-08-15 07:30:57] [class-ss-url-fetcher.php:103] Filesize: 14292 bytes
+[2025-08-15 07:30:57] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:30:57] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-woocommerce-menu-cart-rtl.min.css
+[2025-08-15 07:30:57] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee231ea0ca-PRE1VA.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-menu-cart-rtl.min.css
+[2025-08-15 07:30:57] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:30:58] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:30:58] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:30:58] [class-ss-page.php:128] Checking Content Identical:e48832686b0a28b7cd015fdf936acc89d94f88a5===e48832686b0a28b7cd01. Value: TRUE
+[2025-08-15 07:30:58] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-menu-cart.min.css
+[2025-08-15 07:30:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:45; Total: 1256
+[2025-08-15 07:30:58] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:30:58] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee2324b741-ghciWb.tmp
+[2025-08-15 07:30:58] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-menu-cart.min.css?simply_static_page=1165
+[2025-08-15 07:30:58] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-menu-cart.min.css?simply_static_page=1165
+[2025-08-15 07:30:58] [class-ss-url-fetcher.php:103] Filesize: 14289 bytes
+[2025-08-15 07:30:58] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:30:58] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-woocommerce-menu-cart.min.css
+[2025-08-15 07:30:58] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee2324b741-ghciWb.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-menu-cart.min.css
+[2025-08-15 07:30:58] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:30:58] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:30:58] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:30:58] [class-ss-page.php:128] Checking Content Identical:4692a57657a6c4b3857b56b9a990e82d816d85c5===4692a57657a6c4b3857b. Value: TRUE
+[2025-08-15 07:30:58] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-my-account-rtl.min.css
+[2025-08-15 07:30:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:44; Total: 1256
+[2025-08-15 07:30:58] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:30:58] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee2327e614-sjzg3z.tmp
+[2025-08-15 07:30:58] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-my-account-rtl.min.css?simply_static_page=1166
+[2025-08-15 07:30:58] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-my-account-rtl.min.css?simply_static_page=1166
+[2025-08-15 07:30:58] [class-ss-url-fetcher.php:103] Filesize: 35569 bytes
+[2025-08-15 07:30:58] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:30:58] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-woocommerce-my-account-rtl.min.css
+[2025-08-15 07:30:58] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee2327e614-sjzg3z.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-my-account-rtl.min.css
+[2025-08-15 07:30:58] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:30:58] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:30:58] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:30:58] [class-ss-page.php:128] Checking Content Identical:9af0f87a6516b773a27ba26e1dcf13f3b76a016d===9af0f87a6516b773a27b. Value: TRUE
+[2025-08-15 07:30:58] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-my-account.min.css
+[2025-08-15 07:30:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:43; Total: 1256
+[2025-08-15 07:30:58] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:30:58] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee232a5540-npFA7W.tmp
+[2025-08-15 07:30:58] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-my-account.min.css?simply_static_page=1167
+[2025-08-15 07:30:58] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-my-account.min.css?simply_static_page=1167
+[2025-08-15 07:30:58] [class-ss-url-fetcher.php:103] Filesize: 35566 bytes
+[2025-08-15 07:30:58] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:30:58] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-woocommerce-my-account.min.css
+[2025-08-15 07:30:58] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee232a5540-npFA7W.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-my-account.min.css
+[2025-08-15 07:30:58] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:30:58] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:30:58] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:30:58] [class-ss-page.php:128] Checking Content Identical:8f8b4cf6bfadf9b8ee701fbc0d84710baab89d65===8f8b4cf6bfadf9b8ee70. Value: TRUE
+[2025-08-15 07:30:58] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-notices-rtl.min.css
+[2025-08-15 07:30:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:42; Total: 1256
+[2025-08-15 07:30:58] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:30:58] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee232e797f-A44Eql.tmp
+[2025-08-15 07:30:58] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-notices-rtl.min.css?simply_static_page=1168
+[2025-08-15 07:30:58] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-notices-rtl.min.css?simply_static_page=1168
+[2025-08-15 07:30:59] [class-ss-url-fetcher.php:103] Filesize: 739 bytes
+[2025-08-15 07:30:59] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:30:59] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-woocommerce-notices-rtl.min.css
+[2025-08-15 07:30:59] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee232e797f-A44Eql.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-notices-rtl.min.css
+[2025-08-15 07:30:59] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:30:59] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:30:59] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:30:59] [class-ss-page.php:128] Checking Content Identical:06fc7962226c75ce7757a0e0be8f13ca40b2aff4===06fc7962226c75ce7757. Value: TRUE
+[2025-08-15 07:30:59] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-notices.min.css
+[2025-08-15 07:30:59] [class-ss-task.php:58] [PAGES STATUS] Remaining:41; Total: 1256
+[2025-08-15 07:30:59] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:30:59] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee23316b81-3B5bMt.tmp
+[2025-08-15 07:30:59] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-notices.min.css?simply_static_page=1169
+[2025-08-15 07:30:59] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-notices.min.css?simply_static_page=1169
+[2025-08-15 07:30:59] [class-ss-url-fetcher.php:103] Filesize: 739 bytes
+[2025-08-15 07:30:59] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:30:59] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-woocommerce-notices.min.css
+[2025-08-15 07:30:59] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee23316b81-3B5bMt.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-notices.min.css
+[2025-08-15 07:30:59] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:30:59] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:30:59] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:30:59] [class-ss-page.php:128] Checking Content Identical:06fc7962226c75ce7757a0e0be8f13ca40b2aff4===06fc7962226c75ce7757. Value: TRUE
+[2025-08-15 07:30:59] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-add-to-cart-rtl.min.css
+[2025-08-15 07:30:59] [class-ss-task.php:58] [PAGES STATUS] Remaining:40; Total: 1256
+[2025-08-15 07:30:59] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:30:59] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee2332f955-M1XfMg.tmp
+[2025-08-15 07:30:59] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-add-to-cart-rtl.min.css?simply_static_page=1170
+[2025-08-15 07:30:59] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-add-to-cart-rtl.min.css?simply_static_page=1170
+[2025-08-15 07:30:59] [class-ss-url-fetcher.php:103] Filesize: 89420 bytes
+[2025-08-15 07:30:59] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:30:59] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-add-to-cart-rtl.min.css
+[2025-08-15 07:30:59] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee2332f955-M1XfMg.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-add-to-cart-rtl.min.css
+[2025-08-15 07:30:59] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:30:59] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:30:59] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:30:59] [class-ss-page.php:128] Checking Content Identical:29f77a5af87124f755991d33e43c086314f822b5===29f77a5af87124f75599. Value: TRUE
+[2025-08-15 07:30:59] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-add-to-cart.min.css
+[2025-08-15 07:30:59] [class-ss-task.php:58] [PAGES STATUS] Remaining:39; Total: 1256
+[2025-08-15 07:30:59] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:30:59] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee233773df-IiONvh.tmp
+[2025-08-15 07:30:59] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-add-to-cart.min.css?simply_static_page=1171
+[2025-08-15 07:30:59] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-add-to-cart.min.css?simply_static_page=1171
+[2025-08-15 07:30:59] [class-ss-url-fetcher.php:103] Filesize: 89434 bytes
+[2025-08-15 07:30:59] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:30:59] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-add-to-cart.min.css
+[2025-08-15 07:30:59] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee233773df-IiONvh.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-add-to-cart.min.css
+[2025-08-15 07:30:59] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:30:59] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:30:59] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:30:59] [class-ss-page.php:128] Checking Content Identical:467ab57a16b45557ca358c822d1871c26ec06c72===467ab57a16b45557ca35. Value: TRUE
+[2025-08-15 07:30:59] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-additional-information-rtl.min.css
+[2025-08-15 07:30:59] [class-ss-task.php:58] [PAGES STATUS] Remaining:38; Total: 1256
+[2025-08-15 07:30:59] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:30:59] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee233b4d36-eZQGt0.tmp
+[2025-08-15 07:30:59] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-additional-information-rtl.min.css?simply_static_page=1172
+[2025-08-15 07:30:59] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-additional-information-rtl.min.css?simply_static_page=1172
+[2025-08-15 07:30:59] [class-ss-url-fetcher.php:103] Filesize: 153 bytes
+[2025-08-15 07:30:59] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:30:59] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-additional-information-rtl.min.css
+[2025-08-15 07:30:59] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee233b4d36-eZQGt0.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-additional-information-rtl.min.css
+[2025-08-15 07:30:59] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:30:59] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:30:59] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:30:59] [class-ss-page.php:128] Checking Content Identical:c36745aad46b393339c501f8e4dedaac3437c505===c36745aad46b393339c5. Value: TRUE
+[2025-08-15 07:30:59] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-additional-information.min.css
+[2025-08-15 07:30:59] [class-ss-task.php:58] [PAGES STATUS] Remaining:37; Total: 1256
+[2025-08-15 07:30:59] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:30:59] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee233c8a3a-yY5aKA.tmp
+[2025-08-15 07:30:59] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-additional-information.min.css?simply_static_page=1173
+[2025-08-15 07:30:59] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-additional-information.min.css?simply_static_page=1173
+[2025-08-15 07:30:59] [class-ss-url-fetcher.php:103] Filesize: 153 bytes
+[2025-08-15 07:30:59] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:30:59] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-additional-information.min.css
+[2025-08-15 07:30:59] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee233c8a3a-yY5aKA.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-additional-information.min.css
+[2025-08-15 07:30:59] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:30:59] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:30:59] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:30:59] [class-ss-page.php:128] Checking Content Identical:c36745aad46b393339c501f8e4dedaac3437c505===c36745aad46b393339c5. Value: TRUE
+[2025-08-15 07:30:59] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-data-tabs-rtl.min.css
+[2025-08-15 07:30:59] [class-ss-task.php:58] [PAGES STATUS] Remaining:36; Total: 1256
+[2025-08-15 07:30:59] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:30:59] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee233dc12e-ytgkJG.tmp
+[2025-08-15 07:30:59] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-data-tabs-rtl.min.css?simply_static_page=1174
+[2025-08-15 07:30:59] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-data-tabs-rtl.min.css?simply_static_page=1174
+[2025-08-15 07:30:59] [class-ss-url-fetcher.php:103] Filesize: 738 bytes
+[2025-08-15 07:30:59] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:30:59] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-data-tabs-rtl.min.css
+[2025-08-15 07:30:59] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee233dc12e-ytgkJG.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-data-tabs-rtl.min.css
+[2025-08-15 07:30:59] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:30:59] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:30:59] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:30:59] [class-ss-page.php:128] Checking Content Identical:ac58c69c003bca90376b55bef27919b64d168ef5===ac58c69c003bca90376b. Value: TRUE
+[2025-08-15 07:30:59] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-data-tabs.min.css
+[2025-08-15 07:30:59] [class-ss-task.php:58] [PAGES STATUS] Remaining:35; Total: 1256
+[2025-08-15 07:31:00] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:31:00] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee23402aa9-N7w1Bu.tmp
+[2025-08-15 07:31:00] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-data-tabs.min.css?simply_static_page=1175
+[2025-08-15 07:31:00] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-data-tabs.min.css?simply_static_page=1175
+[2025-08-15 07:31:00] [class-ss-url-fetcher.php:103] Filesize: 738 bytes
+[2025-08-15 07:31:00] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:31:00] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-data-tabs.min.css
+[2025-08-15 07:31:00] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee23402aa9-N7w1Bu.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-data-tabs.min.css
+[2025-08-15 07:31:00] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:31:00] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:31:00] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:31:00] [class-ss-page.php:128] Checking Content Identical:ac58c69c003bca90376b55bef27919b64d168ef5===ac58c69c003bca90376b. Value: TRUE
+[2025-08-15 07:31:00] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-images-rtl.min.css
+[2025-08-15 07:31:00] [class-ss-task.php:58] [PAGES STATUS] Remaining:34; Total: 1256
+[2025-08-15 07:31:00] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:31:00] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee2342f784-ymG63D.tmp
+[2025-08-15 07:31:00] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-images-rtl.min.css?simply_static_page=1176
+[2025-08-15 07:31:00] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-images-rtl.min.css?simply_static_page=1176
+[2025-08-15 07:31:00] [class-ss-url-fetcher.php:103] Filesize: 1039 bytes
+[2025-08-15 07:31:00] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:31:00] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-images-rtl.min.css
+[2025-08-15 07:31:00] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee2342f784-ymG63D.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-images-rtl.min.css
+[2025-08-15 07:31:00] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:31:00] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:31:00] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:31:00] [class-ss-page.php:128] Checking Content Identical:8a0c6835ca7f811d96cfaa6ab39faff8fe594a14===8a0c6835ca7f811d96cf. Value: TRUE
+[2025-08-15 07:31:00] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-images.min.css
+[2025-08-15 07:31:00] [class-ss-task.php:58] [PAGES STATUS] Remaining:33; Total: 1256
+[2025-08-15 07:31:00] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:31:00] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee2345cf51-2nXkgN.tmp
+[2025-08-15 07:31:00] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-images.min.css?simply_static_page=1177
+[2025-08-15 07:31:00] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-images.min.css?simply_static_page=1177
+[2025-08-15 07:31:00] [class-ss-url-fetcher.php:103] Filesize: 1039 bytes
+[2025-08-15 07:31:00] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:31:00] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-images.min.css
+[2025-08-15 07:31:00] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee2345cf51-2nXkgN.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-images.min.css
+[2025-08-15 07:31:00] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:31:00] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:31:00] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:31:00] [class-ss-page.php:128] Checking Content Identical:8a0c6835ca7f811d96cfaa6ab39faff8fe594a14===8a0c6835ca7f811d96cf. Value: TRUE
+[2025-08-15 07:31:00] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-meta-rtl.min.css
+[2025-08-15 07:31:00] [class-ss-task.php:58] [PAGES STATUS] Remaining:32; Total: 1256
+[2025-08-15 07:31:00] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:31:00] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee234780a2-Ye72FB.tmp
+[2025-08-15 07:31:00] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-meta-rtl.min.css?simply_static_page=1178
+[2025-08-15 07:31:00] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-meta-rtl.min.css?simply_static_page=1178
+[2025-08-15 07:31:00] [class-ss-url-fetcher.php:103] Filesize: 959 bytes
+[2025-08-15 07:31:00] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:31:00] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-meta-rtl.min.css
+[2025-08-15 07:31:00] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee234780a2-Ye72FB.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-meta-rtl.min.css
+[2025-08-15 07:31:00] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:31:00] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:31:00] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:31:00] [class-ss-page.php:128] Checking Content Identical:eaa1675caf1d46df458edc198cdf7e76c83e6ac7===eaa1675caf1d46df458e. Value: TRUE
+[2025-08-15 07:31:00] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-meta.min.css
+[2025-08-15 07:31:00] [class-ss-task.php:58] [PAGES STATUS] Remaining:31; Total: 1256
+[2025-08-15 07:31:00] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:31:00] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee234aeb2f-rLcB9U.tmp
+[2025-08-15 07:31:00] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-meta.min.css?simply_static_page=1179
+[2025-08-15 07:31:00] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-meta.min.css?simply_static_page=1179
+[2025-08-15 07:31:00] [class-ss-url-fetcher.php:103] Filesize: 960 bytes
+[2025-08-15 07:31:00] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:31:00] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-meta.min.css
+[2025-08-15 07:31:00] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee234aeb2f-rLcB9U.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-meta.min.css
+[2025-08-15 07:31:00] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:31:00] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:31:00] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:31:00] [class-ss-page.php:128] Checking Content Identical:90cdaf24d74d3b491216eedeeaae3fdfc95e51a3===90cdaf24d74d3b491216. Value: TRUE
+[2025-08-15 07:31:00] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-price-rtl.min.css
+[2025-08-15 07:31:00] [class-ss-task.php:58] [PAGES STATUS] Remaining:30; Total: 1256
+[2025-08-15 07:31:01] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:31:01] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee23500e45-p147Qv.tmp
+[2025-08-15 07:31:01] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-price-rtl.min.css?simply_static_page=1180
+[2025-08-15 07:31:01] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-price-rtl.min.css?simply_static_page=1180
+[2025-08-15 07:31:01] [class-ss-url-fetcher.php:103] Filesize: 261 bytes
+[2025-08-15 07:31:01] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:31:01] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-price-rtl.min.css
+[2025-08-15 07:31:01] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee23500e45-p147Qv.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-price-rtl.min.css
+[2025-08-15 07:31:01] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:31:01] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:31:01] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:31:01] [class-ss-page.php:128] Checking Content Identical:6f0bfddcd15a3f148d5095021d1b5d56a87ac856===6f0bfddcd15a3f148d50. Value: TRUE
+[2025-08-15 07:31:01] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-price.min.css
+[2025-08-15 07:31:01] [class-ss-task.php:58] [PAGES STATUS] Remaining:29; Total: 1256
+[2025-08-15 07:31:01] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:31:01] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee2352992c-gC6vs9.tmp
+[2025-08-15 07:31:01] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-price.min.css?simply_static_page=1181
+[2025-08-15 07:31:01] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-price.min.css?simply_static_page=1181
+[2025-08-15 07:31:01] [class-ss-url-fetcher.php:103] Filesize: 261 bytes
+[2025-08-15 07:31:01] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:31:01] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-price.min.css
+[2025-08-15 07:31:01] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee2352992c-gC6vs9.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-price.min.css
+[2025-08-15 07:31:01] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:31:01] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:31:01] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:31:01] [class-ss-page.php:128] Checking Content Identical:6f0bfddcd15a3f148d5095021d1b5d56a87ac856===6f0bfddcd15a3f148d50. Value: TRUE
+[2025-08-15 07:31:01] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-rating-rtl.min.css
+[2025-08-15 07:31:01] [class-ss-task.php:58] [PAGES STATUS] Remaining:28; Total: 1256
+[2025-08-15 07:31:01] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:31:01] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee2354b0db-wuc9nL.tmp
+[2025-08-15 07:31:01] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-rating-rtl.min.css?simply_static_page=1182
+[2025-08-15 07:31:01] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-rating-rtl.min.css?simply_static_page=1182
+[2025-08-15 07:31:01] [class-ss-url-fetcher.php:103] Filesize: 940 bytes
+[2025-08-15 07:31:01] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:31:01] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-rating-rtl.min.css
+[2025-08-15 07:31:01] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee2354b0db-wuc9nL.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-rating-rtl.min.css
+[2025-08-15 07:31:01] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:31:01] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:31:01] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:31:01] [class-ss-page.php:128] Checking Content Identical:6c433567cdf3498ccecab524436e04c6c2b7df99===6c433567cdf3498cceca. Value: TRUE
+[2025-08-15 07:31:01] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-rating.min.css
+[2025-08-15 07:31:01] [class-ss-task.php:58] [PAGES STATUS] Remaining:27; Total: 1256
+[2025-08-15 07:31:01] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:31:01] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee2357bf6f-j8KTlP.tmp
+[2025-08-15 07:31:01] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-rating.min.css?simply_static_page=1183
+[2025-08-15 07:31:01] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-rating.min.css?simply_static_page=1183
+[2025-08-15 07:31:01] [class-ss-url-fetcher.php:103] Filesize: 939 bytes
+[2025-08-15 07:31:01] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:31:01] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-rating.min.css
+[2025-08-15 07:31:01] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee2357bf6f-j8KTlP.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-product-rating.min.css
+[2025-08-15 07:31:01] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:31:01] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:31:01] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:31:01] [class-ss-page.php:128] Checking Content Identical:bc0ed6a87f26324149ab965c33d8ac9aa0002227===bc0ed6a87f26324149ab. Value: TRUE
+[2025-08-15 07:31:01] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-products-archive-rtl.min.css
+[2025-08-15 07:31:01] [class-ss-task.php:58] [PAGES STATUS] Remaining:26; Total: 1256
+[2025-08-15 07:31:01] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:31:01] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee235ed7eb-ailLz3.tmp
+[2025-08-15 07:31:01] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-products-archive-rtl.min.css?simply_static_page=1184
+[2025-08-15 07:31:01] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-products-archive-rtl.min.css?simply_static_page=1184
+[2025-08-15 07:31:02] [class-ss-url-fetcher.php:103] Filesize: 1496 bytes
+[2025-08-15 07:31:02] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:31:02] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-woocommerce-products-archive-rtl.min.css
+[2025-08-15 07:31:02] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee235ed7eb-ailLz3.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-products-archive-rtl.min.css
+[2025-08-15 07:31:02] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:31:02] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:31:02] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:31:02] [class-ss-page.php:128] Checking Content Identical:622cfa2786edf72af7bd1e4a61657c750e1efb5b===622cfa2786edf72af7bd. Value: TRUE
+[2025-08-15 07:31:02] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-products-archive.min.css
+[2025-08-15 07:31:02] [class-ss-task.php:58] [PAGES STATUS] Remaining:25; Total: 1256
+[2025-08-15 07:31:02] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:31:02] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee23633070-YXCbrv.tmp
+[2025-08-15 07:31:02] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-products-archive.min.css?simply_static_page=1185
+[2025-08-15 07:31:02] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-products-archive.min.css?simply_static_page=1185
+[2025-08-15 07:31:02] [class-ss-url-fetcher.php:103] Filesize: 1496 bytes
+[2025-08-15 07:31:02] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:31:02] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-woocommerce-products-archive.min.css
+[2025-08-15 07:31:02] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee23633070-YXCbrv.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-products-archive.min.css
+[2025-08-15 07:31:02] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:31:02] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:31:02] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:31:02] [class-ss-page.php:128] Checking Content Identical:622cfa2786edf72af7bd1e4a61657c750e1efb5b===622cfa2786edf72af7bd. Value: TRUE
+[2025-08-15 07:31:02] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-products-rtl.min.css
+[2025-08-15 07:31:02] [class-ss-task.php:58] [PAGES STATUS] Remaining:24; Total: 1256
+[2025-08-15 07:31:02] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:31:02] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee23653c10-WR5U3T.tmp
+[2025-08-15 07:31:02] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-products-rtl.min.css?simply_static_page=1186
+[2025-08-15 07:31:02] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-products-rtl.min.css?simply_static_page=1186
+[2025-08-15 07:31:02] [class-ss-url-fetcher.php:103] Filesize: 2364 bytes
+[2025-08-15 07:31:02] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:31:02] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-woocommerce-products-rtl.min.css
+[2025-08-15 07:31:02] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee23653c10-WR5U3T.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-products-rtl.min.css
+[2025-08-15 07:31:02] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:31:02] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:31:02] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:31:02] [class-ss-page.php:128] Checking Content Identical:f831f6d8f9b5221563d36887a3136d9a940c9fbf===f831f6d8f9b5221563d3. Value: TRUE
+[2025-08-15 07:31:02] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-products.min.css
+[2025-08-15 07:31:02] [class-ss-task.php:58] [PAGES STATUS] Remaining:23; Total: 1256
+[2025-08-15 07:31:02] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:31:02] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee236a35b5-amuJ1k.tmp
+[2025-08-15 07:31:02] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-products.min.css?simply_static_page=1187
+[2025-08-15 07:31:02] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-products.min.css?simply_static_page=1187
+[2025-08-15 07:31:02] [class-ss-url-fetcher.php:103] Filesize: 2363 bytes
+[2025-08-15 07:31:02] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:31:02] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-woocommerce-products.min.css
+[2025-08-15 07:31:02] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee236a35b5-amuJ1k.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-products.min.css
+[2025-08-15 07:31:02] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:31:02] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:31:02] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:31:02] [class-ss-page.php:128] Checking Content Identical:ed5829bfbd537d762c88492d7a539b46897e1723===ed5829bfbd537d762c88. Value: TRUE
+[2025-08-15 07:31:02] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-purchase-summary-rtl.min.css
+[2025-08-15 07:31:02] [class-ss-task.php:58] [PAGES STATUS] Remaining:22; Total: 1256
+[2025-08-15 07:31:02] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:31:02] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee236eda05-Y1OaPM.tmp
+[2025-08-15 07:31:02] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-purchase-summary-rtl.min.css?simply_static_page=1188
+[2025-08-15 07:31:02] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-purchase-summary-rtl.min.css?simply_static_page=1188
+[2025-08-15 07:31:03] [class-ss-url-fetcher.php:103] Filesize: 11182 bytes
+[2025-08-15 07:31:03] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:31:03] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-woocommerce-purchase-summary-rtl.min.css
+[2025-08-15 07:31:03] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee236eda05-Y1OaPM.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-purchase-summary-rtl.min.css
+[2025-08-15 07:31:03] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:31:03] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:31:03] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:31:03] [class-ss-page.php:128] Checking Content Identical:69b165286b2fd16459c6f5d5149bed6a65655101===69b165286b2fd16459c6. Value: TRUE
+[2025-08-15 07:31:03] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-purchase-summary.min.css
+[2025-08-15 07:31:03] [class-ss-task.php:58] [PAGES STATUS] Remaining:21; Total: 1256
+[2025-08-15 07:31:03] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:31:03] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee23744a69-6IipHN.tmp
+[2025-08-15 07:31:03] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-purchase-summary.min.css?simply_static_page=1189
+[2025-08-15 07:31:03] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-purchase-summary.min.css?simply_static_page=1189
+[2025-08-15 07:31:03] [class-ss-url-fetcher.php:103] Filesize: 11195 bytes
+[2025-08-15 07:31:03] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:31:03] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-woocommerce-purchase-summary.min.css
+[2025-08-15 07:31:03] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee23744a69-6IipHN.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-woocommerce-purchase-summary.min.css
+[2025-08-15 07:31:03] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:31:03] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:31:03] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:31:03] [class-ss-page.php:128] Checking Content Identical:24d381d8d26f899bcbd9859409ae81f05143808c===24d381d8d26f899bcbd9. Value: TRUE
+[2025-08-15 07:31:03] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-_compatibility-rtl.min.css
+[2025-08-15 07:31:03] [class-ss-task.php:58] [PAGES STATUS] Remaining:20; Total: 1256
+[2025-08-15 07:31:03] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:31:03] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee237cb416-bDEPks.tmp
+[2025-08-15 07:31:03] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-_compatibility-rtl.min.css?simply_static_page=1190
+[2025-08-15 07:31:03] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-_compatibility-rtl.min.css?simply_static_page=1190
+[2025-08-15 07:31:03] [class-ss-url-fetcher.php:103] Filesize: 136 bytes
+[2025-08-15 07:31:03] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:31:03] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-_compatibility-rtl.min.css
+[2025-08-15 07:31:03] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee237cb416-bDEPks.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-_compatibility-rtl.min.css
+[2025-08-15 07:31:03] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:31:03] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:31:03] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:31:03] [class-ss-page.php:128] Checking Content Identical:59191caa99f1178dfcca9a4ff542ce2e24686b33===59191caa99f1178dfcca. Value: TRUE
+[2025-08-15 07:31:03] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-_compatibility.min.css
+[2025-08-15 07:31:03] [class-ss-task.php:58] [PAGES STATUS] Remaining:19; Total: 1256
+[2025-08-15 07:31:03] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:31:03] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee237ea041-HBl6kZ.tmp
+[2025-08-15 07:31:03] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-_compatibility.min.css?simply_static_page=1191
+[2025-08-15 07:31:03] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-_compatibility.min.css?simply_static_page=1191
+[2025-08-15 07:31:03] [class-ss-url-fetcher.php:103] Filesize: 136 bytes
+[2025-08-15 07:31:03] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:31:03] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-_compatibility.min.css
+[2025-08-15 07:31:03] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee237ea041-HBl6kZ.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-_compatibility.min.css
+[2025-08-15 07:31:04] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:31:04] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:31:04] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:31:04] [class-ss-page.php:128] Checking Content Identical:59191caa99f1178dfcca9a4ff542ce2e24686b33===59191caa99f1178dfcca. Value: TRUE
+[2025-08-15 07:31:04] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-_overlay-animation-rtl.min.css
+[2025-08-15 07:31:04] [class-ss-task.php:58] [PAGES STATUS] Remaining:18; Total: 1256
+[2025-08-15 07:31:04] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:31:04] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee23833f5f-vAwdGK.tmp
+[2025-08-15 07:31:04] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-_overlay-animation-rtl.min.css?simply_static_page=1192
+[2025-08-15 07:31:04] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-_overlay-animation-rtl.min.css?simply_static_page=1192
+[2025-08-15 07:31:04] [class-ss-url-fetcher.php:103] Filesize: 375 bytes
+[2025-08-15 07:31:04] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:31:04] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-_overlay-animation-rtl.min.css
+[2025-08-15 07:31:04] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee23833f5f-vAwdGK.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-_overlay-animation-rtl.min.css
+[2025-08-15 07:31:04] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:31:04] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:31:04] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:31:04] [class-ss-page.php:128] Checking Content Identical:fa35c4293965ae06b44ff10e0535a1549fbe26da===fa35c4293965ae06b44f. Value: TRUE
+[2025-08-15 07:31:04] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-_overlay-animation.min.css
+[2025-08-15 07:31:04] [class-ss-task.php:58] [PAGES STATUS] Remaining:17; Total: 1256
+[2025-08-15 07:31:04] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:31:04] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee238685c6-IPOc5s.tmp
+[2025-08-15 07:31:04] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-_overlay-animation.min.css?simply_static_page=1193
+[2025-08-15 07:31:04] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-_overlay-animation.min.css?simply_static_page=1193
+[2025-08-15 07:31:04] [class-ss-url-fetcher.php:103] Filesize: 375 bytes
+[2025-08-15 07:31:04] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:31:04] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-_overlay-animation.min.css
+[2025-08-15 07:31:04] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee238685c6-IPOc5s.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-_overlay-animation.min.css
+[2025-08-15 07:31:04] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:31:04] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:31:04] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:31:04] [class-ss-page.php:128] Checking Content Identical:fa35c4293965ae06b44ff10e0535a1549fbe26da===fa35c4293965ae06b44f. Value: TRUE
+[2025-08-15 07:31:04] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-_sticky-rtl.min.css
+[2025-08-15 07:31:04] [class-ss-task.php:58] [PAGES STATUS] Remaining:16; Total: 1256
+[2025-08-15 07:31:04] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:31:04] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee238b11b7-HvidoS.tmp
+[2025-08-15 07:31:04] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-_sticky-rtl.min.css?simply_static_page=1194
+[2025-08-15 07:31:04] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-_sticky-rtl.min.css?simply_static_page=1194
+[2025-08-15 07:31:04] [class-ss-url-fetcher.php:103] Filesize: 96 bytes
+[2025-08-15 07:31:04] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:31:04] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-_sticky-rtl.min.css
+[2025-08-15 07:31:04] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee238b11b7-HvidoS.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-_sticky-rtl.min.css
+[2025-08-15 07:31:04] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:31:04] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:31:04] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:31:04] [class-ss-page.php:128] Checking Content Identical:902379d6b3b52dc8e28d58bf62334cf6f4246983===902379d6b3b52dc8e28d. Value: TRUE
+[2025-08-15 07:31:04] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-_sticky.min.css
+[2025-08-15 07:31:04] [class-ss-task.php:58] [PAGES STATUS] Remaining:15; Total: 1256
+[2025-08-15 07:31:04] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:31:04] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee238e659a-Vp7Al5.tmp
+[2025-08-15 07:31:04] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-_sticky.min.css?simply_static_page=1195
+[2025-08-15 07:31:04] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/widget-_sticky.min.css?simply_static_page=1195
+[2025-08-15 07:31:05] [class-ss-url-fetcher.php:103] Filesize: 96 bytes
+[2025-08-15 07:31:05] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:31:05] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/widget-_sticky.min.css
+[2025-08-15 07:31:05] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee238e659a-Vp7Al5.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/widget-_sticky.min.css
+[2025-08-15 07:31:05] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:31:05] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:31:05] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:31:05] [class-ss-page.php:128] Checking Content Identical:902379d6b3b52dc8e28d58bf62334cf6f4246983===902379d6b3b52dc8e28d. Value: TRUE
+[2025-08-15 07:31:05] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/woocommerce-notices.css
+[2025-08-15 07:31:05] [class-ss-task.php:58] [PAGES STATUS] Remaining:14; Total: 1256
+[2025-08-15 07:31:05] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:31:05] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee2394e82c-m3zBys.tmp
+[2025-08-15 07:31:05] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/woocommerce-notices.css?simply_static_page=1196
+[2025-08-15 07:31:05] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/woocommerce-notices.css?simply_static_page=1196
+[2025-08-15 07:31:05] [class-ss-url-fetcher.php:103] Filesize: 12049 bytes
+[2025-08-15 07:31:05] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:31:05] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/woocommerce-notices.css
+[2025-08-15 07:31:05] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee2394e82c-m3zBys.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/woocommerce-notices.css
+[2025-08-15 07:31:05] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:31:05] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:31:05] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:31:05] [class-ss-page.php:128] Checking Content Identical:dabbaac71b7b86970d70e2ec3735eb4c2875e392===dabbaac71b7b86970d70. Value: TRUE
+[2025-08-15 07:31:06] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/woocommerce-notices.min.css
+[2025-08-15 07:31:06] [class-ss-task.php:58] [PAGES STATUS] Remaining:13; Total: 1256
+[2025-08-15 07:31:06] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:31:06] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee23a0ecbe-1iYkGk.tmp
+[2025-08-15 07:31:06] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/woocommerce-notices.min.css?simply_static_page=1197
+[2025-08-15 07:31:06] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/css/woocommerce-notices.min.css?simply_static_page=1197
+[2025-08-15 07:31:06] [class-ss-url-fetcher.php:103] Filesize: 10486 bytes
+[2025-08-15 07:31:06] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:31:06] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/css/woocommerce-notices.min.css
+[2025-08-15 07:31:06] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee23a0ecbe-1iYkGk.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/css/woocommerce-notices.min.css
+[2025-08-15 07:31:06] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:31:06] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:31:06] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:31:06] [class-ss-page.php:128] Checking Content Identical:c0a4c2b4aa680a5d43ad99d178b333edf6d76ca2===c0a4c2b4aa680a5d43ad. Value: TRUE
+[2025-08-15 07:31:06] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/images/announcements/license-expired.png
+[2025-08-15 07:31:06] [class-ss-task.php:58] [PAGES STATUS] Remaining:12; Total: 1256
+[2025-08-15 07:31:06] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:31:06] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee23a3c22d-0WjLno.tmp
+[2025-08-15 07:31:06] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/images/announcements/license-expired.png?simply_static_page=1198
+[2025-08-15 07:31:06] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/images/announcements/license-expired.png?simply_static_page=1198
+[2025-08-15 07:31:06] [class-ss-url-fetcher.php:103] Filesize: 15106 bytes
+[2025-08-15 07:31:06] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/png
+[2025-08-15 07:31:06] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/images/announcements/license-expired.png
+[2025-08-15 07:31:06] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee23a3c22d-0WjLno.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/images/announcements/license-expired.png
+[2025-08-15 07:31:06] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:31:06] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:31:06] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:31:06] [class-ss-page.php:128] Checking Content Identical:b59412c8bd0df4ae9cba982af17f29053850d80a===b59412c8bd0df4ae9cba. Value: TRUE
+[2025-08-15 07:31:06] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/images/logo-placeholder.png
+[2025-08-15 07:31:06] [class-ss-task.php:58] [PAGES STATUS] Remaining:11; Total: 1256
+[2025-08-15 07:31:06] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:31:06] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee23a70615-iMlUkA.tmp
+[2025-08-15 07:31:06] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/images/logo-placeholder.png?simply_static_page=1199
+[2025-08-15 07:31:06] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/images/logo-placeholder.png?simply_static_page=1199
+[2025-08-15 07:31:06] [class-ss-url-fetcher.php:103] Filesize: 4059 bytes
+[2025-08-15 07:31:06] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/png
+[2025-08-15 07:31:06] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/images/logo-placeholder.png
+[2025-08-15 07:31:06] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee23a70615-iMlUkA.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/images/logo-placeholder.png
+[2025-08-15 07:31:06] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:31:06] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:31:06] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:31:06] [class-ss-page.php:128] Checking Content Identical:82848f02488afe910c833776053f753bbeea4369===82848f02488afe910c83. Value: TRUE
+[2025-08-15 07:31:06] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/data/responsive-widgets.json
+[2025-08-15 07:31:06] [class-ss-task.php:58] [PAGES STATUS] Remaining:10; Total: 1256
+[2025-08-15 07:31:06] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:31:06] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee23a8ba54-MKBqqo.tmp
+[2025-08-15 07:31:06] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/pro-elements/assets/data/responsive-widgets.json?simply_static_page=1200
+[2025-08-15 07:31:06] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/pro-elements/assets/data/responsive-widgets.json?simply_static_page=1200
+[2025-08-15 07:31:06] [class-ss-url-fetcher.php:103] Filesize: 403 bytes
+[2025-08-15 07:31:06] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/json
+[2025-08-15 07:31:06] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/pro-elements/assets/data/responsive-widgets.json
+[2025-08-15 07:31:06] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee23a8ba54-MKBqqo.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/pro-elements/assets/data/responsive-widgets.json
+[2025-08-15 07:31:06] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:31:06] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:31:06] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:31:06] [class-ss-page.php:128] Checking Content Identical:4ca0172672dab47bef5f5cb229eb3ff5c1b0c62f===4ca0172672dab47bef5f. Value: TRUE
+[2025-08-15 07:31:06] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/themes/astra/assets/js/minified/flexibility.min.js
+[2025-08-15 07:31:06] [class-ss-task.php:58] [PAGES STATUS] Remaining:9; Total: 1256
+[2025-08-15 07:31:06] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:31:06] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee23ab99c5-zfTJP9.tmp
+[2025-08-15 07:31:06] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/themes/astra/assets/js/minified/flexibility.min.js?simply_static_page=1201
+[2025-08-15 07:31:06] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/themes/astra/assets/js/minified/flexibility.min.js?simply_static_page=1201
+[2025-08-15 07:31:06] [class-ss-url-fetcher.php:103] Filesize: 15525 bytes
+[2025-08-15 07:31:06] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/javascript
+[2025-08-15 07:31:06] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/astra/assets/js/minified/flexibility.min.js
+[2025-08-15 07:31:06] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee23ab99c5-zfTJP9.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/themes/astra/assets/js/minified/flexibility.min.js
+[2025-08-15 07:31:06] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:31:06] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:31:06] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:31:06] [class-ss-page.php:128] Checking Content Identical:6cf96160fa67d56a7be3c68b1941d3af0061a69d===6cf96160fa67d56a7be3. Value: TRUE
+[2025-08-15 07:31:06] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-includes/js/jquery/jquery.min.js
+[2025-08-15 07:31:06] [class-ss-task.php:58] [PAGES STATUS] Remaining:8; Total: 1256
+[2025-08-15 07:31:07] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:31:07] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee23b04171-CNFDFJ.tmp
+[2025-08-15 07:31:07] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-includes/js/jquery/jquery.min.js?simply_static_page=1202
+[2025-08-15 07:31:07] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-includes/js/jquery/jquery.min.js?simply_static_page=1202
+[2025-08-15 07:31:07] [class-ss-url-fetcher.php:103] Filesize: 87553 bytes
+[2025-08-15 07:31:07] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/javascript
+[2025-08-15 07:31:07] [class-ss-url-fetcher.php:233] New filename for static page: /wp-includes/js/jquery/jquery.min.js
+[2025-08-15 07:31:07] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee23b04171-CNFDFJ.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-includes/js/jquery/jquery.min.js
+[2025-08-15 07:31:07] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:31:07] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:31:07] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:31:07] [class-ss-page.php:128] Checking Content Identical:79cd3587d565afe290076a8d36c31c305a573d18===79cd3587d565afe29007. Value: TRUE
+[2025-08-15 07:31:07] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-includes/js/jquery/jquery-migrate.min.js
+[2025-08-15 07:31:07] [class-ss-task.php:58] [PAGES STATUS] Remaining:7; Total: 1256
+[2025-08-15 07:31:07] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:31:07] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee23bb9320-pXk1pX.tmp
+[2025-08-15 07:31:07] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-includes/js/jquery/jquery-migrate.min.js?simply_static_page=1203
+[2025-08-15 07:31:07] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-includes/js/jquery/jquery-migrate.min.js?simply_static_page=1203
+[2025-08-15 07:31:07] [class-ss-url-fetcher.php:103] Filesize: 13577 bytes
+[2025-08-15 07:31:07] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/javascript
+[2025-08-15 07:31:07] [class-ss-url-fetcher.php:233] New filename for static page: /wp-includes/js/jquery/jquery-migrate.min.js
+[2025-08-15 07:31:07] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee23bb9320-pXk1pX.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-includes/js/jquery/jquery-migrate.min.js
+[2025-08-15 07:31:07] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:31:07] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:31:07] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:31:08] [class-ss-page.php:128] Checking Content Identical:3ad0c10e501ac2a9bfa18f9cd7e700219b378738===3ad0c10e501ac2a9bfa1. Value: TRUE
+[2025-08-15 07:31:08] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/themes/astra/assets/js/minified/frontend.min.js
+[2025-08-15 07:31:08] [class-ss-task.php:58] [PAGES STATUS] Remaining:6; Total: 1256
+[2025-08-15 07:31:08] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:31:08] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee23c0b13e-f2FK1I.tmp
+[2025-08-15 07:31:08] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/themes/astra/assets/js/minified/frontend.min.js?simply_static_page=1204
+[2025-08-15 07:31:08] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/themes/astra/assets/js/minified/frontend.min.js?simply_static_page=1204
+[2025-08-15 07:31:08] [class-ss-url-fetcher.php:103] Filesize: 25550 bytes
+[2025-08-15 07:31:08] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/javascript
+[2025-08-15 07:31:08] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/astra/assets/js/minified/frontend.min.js
+[2025-08-15 07:31:08] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee23c0b13e-f2FK1I.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/themes/astra/assets/js/minified/frontend.min.js
+[2025-08-15 07:31:08] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:31:08] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:31:08] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:31:08] [class-ss-page.php:128] Checking Content Identical:65dc1769dc5b067f8413176a35d47d814e72d70d===65dc1769dc5b067f8413. Value: TRUE
+[2025-08-15 07:31:08] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/plugins/happy-elementor-addons/assets/js/extension-reading-progress-bar.min.js
+[2025-08-15 07:31:08] [class-ss-task.php:58] [PAGES STATUS] Remaining:5; Total: 1256
+[2025-08-15 07:31:08] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:31:08] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee23c4bf67-xBfg8p.tmp
+[2025-08-15 07:31:08] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/plugins/happy-elementor-addons/assets/js/extension-reading-progress-bar.min.js?simply_static_page=1205
+[2025-08-15 07:31:08] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/plugins/happy-elementor-addons/assets/js/extension-reading-progress-bar.min.js?simply_static_page=1205
+[2025-08-15 07:31:08] [class-ss-url-fetcher.php:103] Filesize: 1359 bytes
+[2025-08-15 07:31:08] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/javascript
+[2025-08-15 07:31:08] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/happy-elementor-addons/assets/js/extension-reading-progress-bar.min.js
+[2025-08-15 07:31:08] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee23c4bf67-xBfg8p.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/plugins/happy-elementor-addons/assets/js/extension-reading-progress-bar.min.js
+[2025-08-15 07:31:08] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:31:08] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:31:08] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:31:08] [class-ss-page.php:128] Checking Content Identical:a41299cc7e97db0aca4738bf4320ff37b9a5ed3a===a41299cc7e97db0aca47. Value: TRUE
+[2025-08-15 07:31:08] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/index.php/home/
+[2025-08-15 07:31:08] [class-ss-task.php:58] [PAGES STATUS] Remaining:4; Total: 1256
+[2025-08-15 07:31:08] [class-ss-fetch-urls-task.php:80] Excludable found: URL: http://localhost/wordpress/index.php/home/
+[2025-08-15 07:31:08] [class-ss-fetch-urls-task.php:90] Skipping URL because it is no-save and no-follow
+[2025-08-15 07:31:08] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/index.php/category/uncategorized/
+[2025-08-15 07:31:08] [class-ss-task.php:58] [PAGES STATUS] Remaining:3; Total: 1256
+[2025-08-15 07:31:08] [class-ss-fetch-urls-task.php:80] Excludable found: URL: http://localhost/wordpress/index.php/category/uncategorized/
+[2025-08-15 07:31:08] [class-ss-fetch-urls-task.php:90] Skipping URL because it is no-save and no-follow
+[2025-08-15 07:31:08] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/index.php/2025/08/15/hello-world/
+[2025-08-15 07:31:08] [class-ss-task.php:58] [PAGES STATUS] Remaining:2; Total: 1256
+[2025-08-15 07:31:08] [class-ss-fetch-urls-task.php:80] Excludable found: URL: http://localhost/wordpress/index.php/2025/08/15/hello-world/
+[2025-08-15 07:31:08] [class-ss-fetch-urls-task.php:90] Skipping URL because it is no-save and no-follow
+[2025-08-15 07:31:08] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/index.php/author/xolo/
+[2025-08-15 07:31:08] [class-ss-task.php:58] [PAGES STATUS] Remaining:1; Total: 1256
+[2025-08-15 07:31:08] [class-ss-fetch-urls-task.php:80] Excludable found: URL: http://localhost/wordpress/index.php/author/xolo/
+[2025-08-15 07:31:08] [class-ss-fetch-urls-task.php:90] Skipping URL because it is no-save and no-follow
+[2025-08-15 07:31:08] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 1200 of 1256 pages/files
+[2025-08-15 07:31:08] [class-ss-archive-creation-job.php:241] We're not done with the fetch_urls task yet
+[2025-08-15 07:31:12] [class-ss-archive-creation-job.php:194] Current task: fetch_urls
+[2025-08-15 07:31:12] [class-ss-archive-creation-job.php:208] Performing task: fetch_urls
+[2025-08-15 07:31:12] [class-ss-fetch-urls-task.php:69] Total pages: 1256; Pages remaining: 6
+[2025-08-15 07:31:12] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/index.php/feed/
+[2025-08-15 07:31:12] [class-ss-task.php:58] [PAGES STATUS] Remaining:6; Total: 1256
+[2025-08-15 07:31:12] [class-ss-fetch-urls-task.php:80] Excludable found: URL: http://localhost/wordpress/index.php/feed/
+[2025-08-15 07:31:12] [class-ss-fetch-urls-task.php:90] Skipping URL because it is no-save and no-follow
+[2025-08-15 07:31:12] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/index.php/comments/feed/
+[2025-08-15 07:31:12] [class-ss-task.php:58] [PAGES STATUS] Remaining:5; Total: 1256
+[2025-08-15 07:31:12] [class-ss-fetch-urls-task.php:80] Excludable found: URL: http://localhost/wordpress/index.php/comments/feed/
+[2025-08-15 07:31:12] [class-ss-fetch-urls-task.php:90] Skipping URL because it is no-save and no-follow
+[2025-08-15 07:31:12] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-content/themes/astra/assets/css/minified/main.min.css
+[2025-08-15 07:31:12] [class-ss-task.php:58] [PAGES STATUS] Remaining:4; Total: 1256
+[2025-08-15 07:31:12] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:31:12] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee24058aa1-Bpo3og.tmp
+[2025-08-15 07:31:12] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-content/themes/astra/assets/css/minified/main.min.css?simply_static_page=1212
+[2025-08-15 07:31:12] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-content/themes/astra/assets/css/minified/main.min.css?simply_static_page=1212
+[2025-08-15 07:31:12] [class-ss-url-fetcher.php:103] Filesize: 45719 bytes
+[2025-08-15 07:31:12] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:31:12] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/astra/assets/css/minified/main.min.css
+[2025-08-15 07:31:12] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee24058aa1-Bpo3og.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-content/themes/astra/assets/css/minified/main.min.css
+[2025-08-15 07:31:12] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:31:12] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:31:12] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:31:12] [class-ss-page.php:128] Checking Content Identical:74cb00bc3ec5ec15e73699192365a2036764c024===74cb00bc3ec5ec15e736. Value: TRUE
+[2025-08-15 07:31:12] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/wp-includes/css/dist/block-library/style.min.css
+[2025-08-15 07:31:12] [class-ss-task.php:58] [PAGES STATUS] Remaining:3; Total: 1256
+[2025-08-15 07:31:12] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-08-15 07:31:12] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\Mandlik\AppData\Local\Temp/689ee24095683-FGkzYy.tmp
+[2025-08-15 07:31:12] [class-ss-page-handler.php:53] URL Prepared:http://localhost/wordpress/wp-includes/css/dist/block-library/style.min.css?simply_static_page=1213
+[2025-08-15 07:31:12] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress/wp-includes/css/dist/block-library/style.min.css?simply_static_page=1213
+[2025-08-15 07:31:12] [class-ss-url-fetcher.php:103] Filesize: 116345 bytes
+[2025-08-15 07:31:12] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-08-15 07:31:12] [class-ss-url-fetcher.php:233] New filename for static page: /wp-includes/css/dist/block-library/style.min.css
+[2025-08-15 07:31:12] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\Mandlik\AppData\Local\Temp/689ee24095683-FGkzYy.tmp to C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123/wp-includes/css/dist/block-library/style.min.css
+[2025-08-15 07:31:12] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-08-15 07:31:12] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-08-15 07:31:12] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-08-15 07:31:12] [class-ss-page.php:128] Checking Content Identical:04c3e7de74a890d18014588c4e1f077a52d79acc===04c3e7de74a890d18014. Value: TRUE
+[2025-08-15 07:31:12] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/index.php/wp-json/
+[2025-08-15 07:31:12] [class-ss-task.php:58] [PAGES STATUS] Remaining:2; Total: 1256
+[2025-08-15 07:31:12] [class-ss-fetch-urls-task.php:80] Excludable found: URL: http://localhost/wordpress/index.php/wp-json/
+[2025-08-15 07:31:12] [class-ss-fetch-urls-task.php:90] Skipping URL because it is no-save and no-follow
+[2025-08-15 07:31:12] [class-ss-fetch-urls-task.php:73] URL: http://localhost/wordpress/xmlrpc.php
+[2025-08-15 07:31:12] [class-ss-task.php:58] [PAGES STATUS] Remaining:1; Total: 1256
+[2025-08-15 07:31:12] [class-ss-fetch-urls-task.php:80] Excludable found: URL: http://localhost/wordpress/xmlrpc.php
+[2025-08-15 07:31:12] [class-ss-fetch-urls-task.php:90] Skipping URL because it is no-save and no-follow
+[2025-08-15 07:31:12] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 1250 of 1256 pages/files
+[2025-08-15 07:31:12] [class-ss-archive-creation-job.php:241] We're not done with the fetch_urls task yet
+[2025-08-15 07:31:12] [class-ss-archive-creation-job.php:194] Current task: fetch_urls
+[2025-08-15 07:31:12] [class-ss-archive-creation-job.php:208] Performing task: fetch_urls
+[2025-08-15 07:31:12] [class-ss-fetch-urls-task.php:69] Total pages: 1256; Pages remaining: 0
+[2025-08-15 07:31:12] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 1256 of 1256 pages/files
+[2025-08-15 07:31:12] [class-ss-archive-creation-job.php:233] We've found our next task: transfer_files_locally
+[2025-08-15 07:31:12] [class-ss-archive-creation-job.php:263] Cleaning on first run for task: transfer_files_locally
+[2025-08-15 07:31:12] [class-ss-archive-creation-job.php:194] Current task: transfer_files_locally
+[2025-08-15 07:31:12] [class-ss-archive-creation-job.php:208] Performing task: transfer_files_locally
+[2025-08-15 07:31:12] [trait-can-process-pages.php:256] Total Pages Query: SELECT COUNT(*) FROM  wp_simply_static_pages WHERE 1=1 AND file_path IS NOT NULL AND file_path != '' AND ( ( last_transferred_at < last_modified_at AND last_transferred_at < '2025-08-15 07:27:35' ) OR last_transferred_at IS NULL )
+[2025-08-15 07:31:12] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /index.html
+[2025-08-15 07:31:12] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/xampp/htdocs/My-Portfolio/
+[2025-08-15 07:31:12] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/plugins/happy-elementor-addons/assets/vendor/dom-purify/purify.min.js
+[2025-08-15 07:31:12] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/xampp/htdocs/My-Portfolio/wp-content/plugins/happy-elementor-addons/assets/vendor/dom-purify
+[2025-08-15 07:31:12] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/plugins/happy-elementor-addons/assets/js/happy-addons.min.js
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/xampp/htdocs/My-Portfolio/wp-content/plugins/happy-elementor-addons/assets/js
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-includes/js/dist/hooks.min.js
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/xampp/htdocs/My-Portfolio/wp-includes/js/dist
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-includes/js/dist/i18n.min.js
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/xampp/htdocs/My-Portfolio/wp-includes/js/dist
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-includes/js/jquery/ui/core.min.js
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/xampp/htdocs/My-Portfolio/wp-includes/js/jquery/ui
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/elementor/css/post-8.css
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/xampp/htdocs/My-Portfolio/wp-content/uploads/elementor/css
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/elementor/css/post-14.css
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/xampp/htdocs/My-Portfolio/wp-content/uploads/elementor/css
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/plugins/happy-elementor-addons/assets/fonts/style.min.css
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/xampp/htdocs/My-Portfolio/wp-content/plugins/happy-elementor-addons/assets/fonts
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/happyaddons/css/ha-14.css
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/xampp/htdocs/My-Portfolio/wp-content/uploads/happyaddons/css
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/elementor/google-fonts/css/roboto.css
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/xampp/htdocs/My-Portfolio/wp-content/uploads/elementor/google-fonts/css
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/elementor/google-fonts/css/robotoslab.css
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/xampp/htdocs/My-Portfolio/wp-content/uploads/elementor/google-fonts/css
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/plugins/happy-elementor-addons/assets/fonts/happy-icons.woff2
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/xampp/htdocs/My-Portfolio/wp-content/plugins/happy-elementor-addons/assets/fonts
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/plugins/happy-elementor-addons/assets/fonts/happy-icons.woff
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/xampp/htdocs/My-Portfolio/wp-content/plugins/happy-elementor-addons/assets/fonts
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/plugins/happy-elementor-addons/assets/fonts/happy-icons.svg
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/xampp/htdocs/My-Portfolio/wp-content/plugins/happy-elementor-addons/assets/fonts
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkc3kawzu.woff2
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/xampp/htdocs/My-Portfolio/wp-content/uploads/elementor/google-fonts/fonts
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkankawzu.woff2
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/xampp/htdocs/My-Portfolio/wp-content/uploads/elementor/google-fonts/fonts
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkcnkawzu.woff2
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/xampp/htdocs/My-Portfolio/wp-content/uploads/elementor/google-fonts/fonts
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkbxkawzu.woff2
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/xampp/htdocs/My-Portfolio/wp-content/uploads/elementor/google-fonts/fonts
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkenkawzu.woff2
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/xampp/htdocs/My-Portfolio/wp-content/uploads/elementor/google-fonts/fonts
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkahkawzu.woff2
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/xampp/htdocs/My-Portfolio/wp-content/uploads/elementor/google-fonts/fonts
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkcxkawzu.woff2
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/xampp/htdocs/My-Portfolio/wp-content/uploads/elementor/google-fonts/fonts
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkchkawzu.woff2
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/xampp/htdocs/My-Portfolio/wp-content/uploads/elementor/google-fonts/fonts
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkbnka.woff2
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/xampp/htdocs/My-Portfolio/wp-content/uploads/elementor/google-fonts/fonts
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3gubgee.woff2
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/xampp/htdocs/My-Portfolio/wp-content/uploads/elementor/google-fonts/fonts
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3iubgee.woff2
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/xampp/htdocs/My-Portfolio/wp-content/uploads/elementor/google-fonts/fonts
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3cubgee.woff2
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/xampp/htdocs/My-Portfolio/wp-content/uploads/elementor/google-fonts/fonts
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3-ubgee.woff2
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/xampp/htdocs/My-Portfolio/wp-content/uploads/elementor/google-fonts/fonts
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluamawcubgee.woff2
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/xampp/htdocs/My-Portfolio/wp-content/uploads/elementor/google-fonts/fonts
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluamaxkubgee.woff2
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/xampp/htdocs/My-Portfolio/wp-content/uploads/elementor/google-fonts/fonts
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3oubgee.woff2
+[2025-08-15 07:31:13] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/xampp/htdocs/My-Portfolio/wp-content/uploads/elementor/google-fonts/fonts
+[2025-08-15 07:31:14] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3kubgee.woff2
+[2025-08-15 07:31:14] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/xampp/htdocs/My-Portfolio/wp-content/uploads/elementor/google-fonts/fonts
+[2025-08-15 07:31:14] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2
+[2025-08-15 07:31:14] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/xampp/htdocs/My-Portfolio/wp-content/uploads/elementor/google-fonts/fonts
+[2025-08-15 07:31:14] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufa5qw54a.woff2
+[2025-08-15 07:31:14] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/xampp/htdocs/My-Portfolio/wp-content/uploads/elementor/google-fonts/fonts
+[2025-08-15 07:31:14] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufj5qw54a.woff2
+[2025-08-15 07:31:14] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/xampp/htdocs/My-Portfolio/wp-content/uploads/elementor/google-fonts/fonts
+[2025-08-15 07:31:14] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufb5qw54a.woff2
+[2025-08-15 07:31:14] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/xampp/htdocs/My-Portfolio/wp-content/uploads/elementor/google-fonts/fonts
+[2025-08-15 07:31:14] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufo5qw54a.woff2
+[2025-08-15 07:31:14] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/xampp/htdocs/My-Portfolio/wp-content/uploads/elementor/google-fonts/fonts
+[2025-08-15 07:31:14] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufc5qw54a.woff2
+[2025-08-15 07:31:14] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/xampp/htdocs/My-Portfolio/wp-content/uploads/elementor/google-fonts/fonts
+[2025-08-15 07:31:14] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufd5qw54a.woff2
+[2025-08-15 07:31:14] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/xampp/htdocs/My-Portfolio/wp-content/uploads/elementor/google-fonts/fonts
+[2025-08-15 07:31:14] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufn5qu.woff2
+[2025-08-15 07:31:14] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/xampp/htdocs/My-Portfolio/wp-content/uploads/elementor/google-fonts/fonts
+[2025-08-15 07:31:14] [class-ss-transfer-files-locally-task.php:98] [Transfer] Total Pages:40. Processed Pages: 40
+[2025-08-15 07:31:14] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferred 40 of 40 files
+[2025-08-15 07:31:14] [trait-can-process-pages.php:118] Total pages: 40; Pages remaining: 0
+[2025-08-15 07:31:14] [class-ss-transfer-files-locally-task.php:197] Transferring 404 Page
+[2025-08-15 07:31:14] [class-ss-transfer-files-locally-task.php:200] No 404 Page found at C:\xampp\htdocs\wordpress/wp-content/uploads\simply-static\temp-files/simply-static-1-1755242123\404\index.html
+[2025-08-15 07:31:14] [class-ss-task.php:44] Status message: [destination_url] Destination URL: <a href="https://mandlikpravin.github.io/My-Portfolio/" target="_blank">https://mandlikpravin.github.io/My-Portfolio/</a>
+[2025-08-15 07:31:14] [class-ss-archive-creation-job.php:233] We've found our next task: wrapup
+[2025-08-15 07:31:14] [class-ss-archive-creation-job.php:194] Current task: wrapup
+[2025-08-15 07:31:14] [class-ss-archive-creation-job.php:208] Performing task: wrapup
+[2025-08-15 07:31:14] [class-ss-wrapup-task.php:23] Deleting temporary files
+[2025-08-15 07:31:14] [class-ss-task.php:44] Status message: [wrapup] Wrapping up
+[2025-08-15 07:31:14] [class-ss-archive-creation-job.php:228] This task is done and there are no more tasks, time to complete the job
+[2025-08-15 07:31:14] [class-ss-archive-creation-job.php:273] Completing the job
+[2025-08-15 07:31:14] [class-ss-archive-creation-job.php:414] Status message: [done] Done! Finished in 00:03:39
+[2025-08-15 07:46:44] [class-ss-admin-settings.php:837] Received request to pause static archive generation
+[2025-08-15 07:46:44] [class-ss-archive-creation-job.php:414] Status message: [pause] Export paused.
+[2025-08-15 07:46:48] [class-ss-admin-settings.php:855] Received request to resume static archive generation
+[2025-08-15 07:46:48] [class-ss-archive-creation-job.php:414] Status message: [resume] Export resumed.
