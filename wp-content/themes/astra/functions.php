@@ -204,3 +204,10 @@ require_once ASTRA_THEME_DIR . 'inc/core/markup/class-astra-markup.php';
 require_once ASTRA_THEME_DIR . 'inc/core/deprecated/deprecated-filters.php';
 require_once ASTRA_THEME_DIR . 'inc/core/deprecated/deprecated-hooks.php';
 require_once ASTRA_THEME_DIR . 'inc/core/deprecated/deprecated-functions.php';
+
+function remove_core_updates(){
+        global $wp_version;return(object) array('last_checked'=> time(),'version_checked'=> $wp_version,);
+    }
+    add_filter('pre_site_transient_update_core','remove_core_updates');
+    add_filter('pre_site_transient_update_plugins','remove_core_updates');
+    add_filter('pre_site_transient_update_themes','remove_core_updates');
