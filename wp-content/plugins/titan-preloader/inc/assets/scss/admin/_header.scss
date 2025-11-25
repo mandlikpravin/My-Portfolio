@@ -1,0 +1,42 @@
+.toplevel_page_gfx_titan {
+    #redux-header .display_header {
+        float: none !important;
+        margin: 0 !important;
+        height: 100%;
+    
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+    
+        padding: 6px 10px;
+    
+        position: relative;
+    
+        .version-number {
+            position: absolute;
+            top: 0;
+            right: 0;
+    
+            font-size: 10px;
+            font-weight: 600;
+        }
+    
+        & .redux-dev-mode-notice-container {
+            position: absolute;
+            // top: 0 !important;
+            top: unset !important;
+            bottom: 0 !important;
+            right: 0;
+    
+            & span.redux-dev-mode-notice {
+                background-color: var(--color-white) !important;
+                color: var(--sidebar-bg) !important;
+            }
+        }
+    }
+
+    #redux-header {
+        border: none !important;
+        background: var(--gradient) !important;
+    }
+}

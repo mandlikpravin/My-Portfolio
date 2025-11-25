@@ -1,0 +1,69 @@
+:root {
+    --gfx-titan-bg-color: #071300;
+    --gfx-titan-star-color: #57a028;
+    --gfx-titan-rocket-color: #79b34c;
+    --gfx-titan-rocket-bg: #ffffff;
+}
+
+.gfx_preloader {
+    position: fixed;
+    top: 0;
+    left: 0;
+
+    width: 100vw;
+    height: 100vh;
+
+    z-index: 999999999;
+
+    background-color: var(--gfx-titan-bg-color);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    overflow: hidden;
+
+    &--rocket {
+        height: 25%;
+        z-index: 10;
+
+        &-color {
+            fill: var(--gfx-titan-rocket-color);
+            opacity: 1;
+        }
+
+        &-bg {
+            fill: var(--gfx-titan-rocket-bg);
+        }
+    }
+
+    &--star {
+        background-color: var(--gfx-titan-star-color);
+        width: 1px;
+
+        position: absolute;
+        top: 0;
+
+        animation: preloader12anim linear infinite;
+        z-index: 1;
+        opacity: 0.5;
+    }
+
+    &.gfx-circular .gfx_preloader--star {
+        border-radius: 50%;
+    }
+}
+
+@keyframes preloader12anim {
+    0% {
+        transform: translateY(0);
+    }
+    100% {
+        transform: translateY(100vh);
+    }
+}
+
+body.page-template-page-preloader {
+    --gfx-titan-intro-bg-color: #82b541;
+    --gfx-titan-outro-bg-color: #82b541;
+}

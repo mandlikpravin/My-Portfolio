@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Loader 1",
+        "id": "loader_1",
+        "image": {
+            "src": "1.gif",
+            "alt": "loader-1"
+        }
+    },
+    {
+        "name": "Loader 2",
+        "id": "loader_2",
+        "image": {
+            "src": "2.gif",
+            "alt": "loader-2"
+        }
+    },
+    {
+        "name": "Loader 3",
+        "id": "loader_3",
+        "image": {
+            "src": "3.gif",
+            "alt": "loader-3"
+        }
+    },
+    {
+        "name": "Loader 4",
+        "id": "loader_4",
+        "image": {
+            "src": "4.gif",
+            "alt": "loader-4"
+        }
+    },
+    {
+        "name": "Loader 5",
+        "id": "loader_5",
+        "image": {
+            "src": "5.gif",
+            "alt": "loader-5"
+        }
+    },
+    {
+        "name": "Loader 6",
+        "id": "loader_6",
+        "image": {
+            "src": "6.gif",
+            "alt": "loader-6"
+        }
+    },
+    {
+        "name": "Loader 7",
+        "id": "loader_7",
+        "image": {
+            "src": "7.gif",
+            "alt": "loader-7"
+        }
+    },
+    {
+        "name": "Loader 8",
+        "id": "loader_8",
+        "image": {
+            "src": "8.gif",
+            "alt": "loader-8"
+        }
+    },
+    {
+        "name": "Loader 9",
+        "id": "loader_9",
+        "image": {
+            "src": "9.gif",
+            "alt": "loader-9"
+        }
+    },
+    {
+        "name": "Loader 10",
+        "id": "loader_10",
+        "image": {
+            "src": "10.gif",
+            "alt": "loader-10"
+        }
+    }
+]

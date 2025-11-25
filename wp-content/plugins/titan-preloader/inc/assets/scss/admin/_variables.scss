@@ -1,0 +1,24 @@
+.toplevel_page_gfx_titan {
+    --gradient: linear-gradient(90deg, rgba(128,38,248,1) 0%, rgba(253,79,142,1) 50%, rgba(255,171,101,1) 100%);
+    --gradient-1: linear-gradient(90deg, rgba(128,38,248,1) 0%, rgba(253,79,142,1) 100%);
+    --color-white: #ffffff;
+    --sidebar-bg: #111518;
+    --sidebar-hover: #242b30;
+
+    --color-text: #98a2aa;
+    --color-text-1: #6f7981;
+    --input-bg-color: #2a3237;
+
+    --button-active: #5a9ac8;
+    --button-delete: #ff518c;
+
+    --main-bg: #1d2327;
+    --main-bg-1: #181d20;
+    --img-border-color: #333c42;
+
+    --gfx-titan-field-min-width: 380px;
+
+    @media only screen and (max-width: 1450px) {
+        --gfx-titan-field-min-width: 47%;
+    }
+}

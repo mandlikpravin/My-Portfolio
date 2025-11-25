@@ -1,0 +1,44 @@
+:root {
+  --titan-loader-bg: #ffffff;
+}
+
+.gfx_preloader--loader {
+    width: 4vw;
+    height: 4vw;
+    position: relative;
+
+    &::before, &::after {
+      content: '';
+      width: 100%;
+      height: 100%;
+      background-color: var(--titan-loader-bg);
+      border-radius: 50%;
+      opacity: .6;
+      -webkit-animation: loader3 2s infinite ease-in-out;
+      animation: loader3 2s infinite ease-in-out;
+      position: absolute;
+      left: 0;
+      top: 0;
+    }
+
+    &::after {
+      animation-delay: -1s;
+    }
+
+    @media (max-width: 991px) {
+      width: 15vw;
+      height: 15vw;
+    }
+}
+
+@keyframes loader3 {
+  0%,
+  to {
+    -webkit-transform: scale(0);
+    transform: scale(0);
+  }
+  50% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+}

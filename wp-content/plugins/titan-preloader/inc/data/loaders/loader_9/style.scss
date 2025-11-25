@@ -1,0 +1,150 @@
+:root {
+  --titan-loader-bg: #ffffff;
+}
+
+.gfx_preloader--loader {
+    width: 4vw;
+    height: 4vw;
+    position: relative;
+
+    div {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        left: 0;
+        top: 0;
+        
+        transform-origin: center;
+
+        &::before {
+            content: '';
+            display: block;
+            width: .75vw;
+            height: .75vw;
+            margin: 0 auto;
+            border-radius: 50%;
+            background-color: var(--titan-loader-bg);
+
+            animation: loader9 1.2s infinite ease-in-out;
+        }
+    }
+     
+    & &-2 {
+        transform: rotate(30deg);
+
+        &::before {
+            animation-delay: -1.1s;
+        }
+    }
+
+    & &-3 {
+        transform: rotate(60deg);
+
+        &::before {
+            animation-delay: -1s;
+        }
+    }
+
+    & &-4 {
+        transform: rotate(90deg);
+
+        &::before {
+            animation-delay: -.9s;
+        }
+    }
+
+    & &-5 {
+        transform: rotate(120deg);
+
+        &::before {
+            animation-delay: -.8s;
+        }
+    }
+
+    & &-6 {
+        transform: rotate(150deg);
+
+        &::before {
+            animation-delay: -.7s;
+        }
+    }
+
+    & &-7 {
+        transform: rotate(180deg);
+
+        &::before {
+            animation-delay: -.6s;
+        }
+    }
+
+    & &-8 {
+        transform: rotate(210deg);
+
+        &::before {
+            animation-delay: -.5s;
+        }
+    }
+
+    & &-9 {
+        transform: rotate(240deg);
+
+        &::before {
+            animation-delay: -.4s;
+        }
+    }
+
+    & &-10 {
+        transform: rotate(270deg);
+
+        &::before {
+            animation-delay: -.3s;
+        }
+    }
+
+    & &-11 {
+        transform: rotate(300deg);
+
+        &::before {
+            animation-delay: -.2s;
+        }
+    }
+
+    & &-12 {
+        transform: rotate(330deg);
+
+        &::before {
+            animation-delay: -.1s;
+        }
+    }
+
+    @media (max-width: 991px) {
+        width: 8vw;
+        height: 8vw;
+
+        div::before {
+            width: 2vw;
+            height: 2vw;
+        }
+    }
+
+    @media (max-width: 575px) {
+        width: 15vw;
+        height: 15vw;
+
+        div::before {
+            width: 2vw;
+            height: 2vw;
+        }
+    }
+}
+
+@keyframes loader9 {
+    0%,
+    80%,
+    to {
+        transform: scale(0);
+    }
+    40% {
+        transform: scale(1);
+    }
+}

@@ -1,0 +1,55 @@
+.toplevel_page_gfx_titan #redux-footer-sticky {
+    margin: 0 !important;
+    position: relative;
+
+    #redux-footer {
+        border: none !important;
+        box-shadow: none;
+        background-color: var(--main-bg) !important;
+        padding: 20px;
+
+        &:not(.sticky-footer-fixed) {
+            right: 0 !important;
+        }
+
+        &.sticky-footer-fixed {
+            padding-top: 20px;
+            width: calc(100% - 488px) !important;
+
+            @media only screen and (max-width: 1400px) {
+                width: calc(100% - 404px) !important;
+            }
+        }
+
+        .redux-action_bar {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .redux-notification-success,
+        .redux-notification-error {
+            color: var(--color-white);
+            background: var(--gradient);
+            padding: 20px;
+            position: absolute;
+            top: 0;
+            left: 0;
+
+            text-align: left;
+            width: 100%;
+            z-index: -1;
+
+            opacity: 0;
+            visibility: hidden;
+
+            transform: translateY(-99%);
+
+            transition: all 0.25s;
+        }
+
+        .redux-notification-error {
+            background-color: red;
+        }
+    }
+}

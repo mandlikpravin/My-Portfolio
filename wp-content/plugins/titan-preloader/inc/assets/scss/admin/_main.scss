@@ -1,0 +1,142 @@
+.toplevel_page_gfx_titan .redux-main {
+    background-color: var(--main-bg) !important;
+    border: none !important;
+    box-shadow: none !important;
+    padding: 20px;
+    padding: 0 !important;
+
+    .redux_field_search {
+        display: none;
+    }
+
+    select {
+        background-color: var(--input-bg-color);
+        border: none;
+        min-height: 48px !important;
+        // opacity: 0;
+        // visibility: hidden;
+    }
+
+    .redux-group-tab {
+        h2 {
+            font-size: 20px;
+            font-weight: 600;
+            color: var(--color-white);
+
+            margin: 0 0 15px 0;
+            padding: 30px 20px 0 20px;
+        }
+
+        .redux-section-desc {
+            font-size: 12px;
+            font-weight: 500;
+            color: var(--color-text);
+
+            margin-bottom: 0;
+            padding: 0 20px;
+        }
+
+        .form-table {
+            background-color: var(--main-bg-1);
+
+            th {
+                padding-left: 20px;
+            }
+
+            td {
+                padding-right: 20px;
+            }
+        }
+
+        &.preloaders-section .form-table:first-of-type {
+            background-color: var(--main-bg);
+
+            th,
+            td {
+                padding: 20px;
+            }
+        }
+    }
+
+    .redux-action_bar .spinner {
+        background-image: url('../images/branding/icons/loading.gif');
+    }
+
+    .preloader-field {
+        display: block;
+        // margin-top: 20px;
+        border-bottom: none !important;
+
+        > th {
+            display: none;
+        }
+
+        .redux-field-container {
+            padding: 0;
+        }
+
+        .redux-container-image_select ul.redux-image-select {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 12px;
+            padding: 0;
+
+            li {
+                width: calc(16.8% - 12px);
+                display: block;
+
+                label {
+                    line-height: 0;
+                    width: 100%;
+                    height: 100%;
+                    background: var(--img-border-color);
+
+                    padding: 4px;
+                    transition: all 0.25s ease;
+
+                    border-radius: 5px;
+
+                    &.redux-image-select-selected {
+                        background: var(--gradient);
+                    }
+
+                    &:hover {
+                        background: var(--color-white);
+                    }
+                }
+
+                img {
+                    border: none;
+                    background-color: var(--sidebar-hover);
+                    border-radius: 3px;
+                }
+            }
+            
+            @media only screen and (max-width: 1600px) {
+                li {
+                    width: calc(24.8% - 8px);
+                }
+            }
+
+            @media only screen and (max-width: 1300px) {
+                li {
+                    width: calc(33.3% - 8px);
+                }
+            }
+        }
+    }
+
+    @media only screen and (max-width: 1405px) {
+        .redux_field_th {
+            padding: 20px 0 !important;
+        }
+
+        .redux-field-container {
+            padding: 20px 0 !important;
+        }
+
+        .redux-field-container.redux-container-info {
+            padding: 0 !important;
+        }
+    }
+}

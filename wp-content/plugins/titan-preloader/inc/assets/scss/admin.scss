@@ -1,0 +1,175 @@
+@import 'admin/variables';
+@import 'admin/header';
+@import 'admin/sidebar';
+@import 'admin/main';
+@import 'admin/fields';
+@import 'admin/footer';
+
+.toplevel_page_gfx_titan {
+    &:is(body) {
+        background-color: var(--img-border-color);
+    }
+
+    // .redux-notice-field {
+    //     display: none !important;
+    // }
+
+    .redux-update-google-fonts {
+        display: none;
+    }
+
+    .redux-container {
+        font-family: 'Spartan', sans-serif;
+        box-sizing: border-box;
+
+        * {
+            box-sizing: border-box;
+        }
+
+        .redux_field_th {
+            padding-top: 25px;
+        }
+
+        .redux-main {
+            margin-left: 285px;
+
+            @media only screen and (max-width: 1400px) {
+                margin-left: 200px;
+            }
+        }
+
+        .button:not(.wp-color-result) {
+            --bg-color: var(--input-bg-color);
+            --bg-color-hover: var(--color-white);
+            --text-color: var(--color-text);
+            --text-color-hover: var(--sidebar-bg);
+
+            background-color: var(--bg-color);
+            border: none;
+
+            font-size: 12px;
+            font-weight: 500;
+            color: var(--text-color) !important;
+            min-height: unset;
+            line-height: normal;
+
+            padding: 18px 35px 15px 35px;
+
+            position: relative;
+            overflow: hidden;
+
+            transition: all 0.25s ease;
+
+            &.button-primary,
+            &.media_upload_button {
+                background-color: var(--button-active);
+                color: var(--color-white) !important;
+            }
+
+            // * {
+            //     position: relative;
+            //     z-index: 10;
+            // }
+
+            // &::before {
+            //     content: '';
+
+            //     width: 100%;
+            //     height: 100%;
+            //     background-color: var(--color-white);
+
+            //     position: absolute;
+            //     top: 0;
+            //     left: 0;
+
+            //     transform: translateY(100%);
+            //     transition: all .25s ease;
+            // }
+
+            &:hover,
+            &:focus,
+            &:disabled {
+                background-color: var(--bg-color-hover);
+                color: var(--text-color-hover) !important;
+
+                // &::before {
+                //     transform: translateY(0);
+                // }
+            }
+        }
+    }
+
+    .redux-notice-field {
+        border: none;
+        margin: 0;
+        padding: 20px;
+        background-color: var(--main-bg);
+
+        .redux-info-desc {
+            font-size: 12px;
+            font-weight: 500;
+            color: var(--color-text);
+        }
+
+        .redux-info-icon {
+            display: none;
+        }
+
+        b {
+            font-size: 20px;
+            margin-bottom: 10px;
+            display: inline-block;
+            color: var(--color-white);
+        }
+    }
+
+    // tbody {
+    //     display: block;
+    // }
+
+    // tr.titan-half-field {
+    //     width: 50%;
+    //     display: inline-block;
+
+    //     > th {
+    //         display: inline-block;
+    //         width: 30% !important;
+    //     }
+
+    //     > td {
+    //         display: inline-block;
+    //         width: 70% !important;
+    //     }
+    // }
+
+    .redux-container {
+        background: var(--sidebar-bg) !important;
+        border: none !important;
+        box-shadow: none !important;
+    }
+
+    .redux-main .form-table tr {
+        border-color: var(--sidebar-hover) !important;
+    }
+
+    #redux-sticky {
+        display: none;
+        #info_bar {
+            display: none;
+        }
+    }
+}
+
+#adminmenu .toplevel_page_gfx_titan {
+    .wp-menu-image {
+        &::before {
+            content: '';
+            background-image: url('../images/branding/logo-icon.png');
+            background-repeat: no-repeat;
+            background-size: contain;
+            width: 19px;
+            height: 10px;
+            margin: 5px 0;
+        }
+    }
+}

@@ -1,0 +1,15 @@
+.gfx_preloader--circular-intro {
+    position: fixed;
+    top: 0;
+    left: 50%;
+    
+    width: 200vw;
+    height: 100%;
+
+    z-index: 999999998;
+
+    background-color: var(--gfx-titan-bg-color);
+
+    transform: translate(-50%, 100%);
+    transform-origin: center center;
+}

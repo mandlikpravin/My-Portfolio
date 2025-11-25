@@ -1,0 +1,40 @@
+.toplevel_page_gfx_titan {
+    .redux-container .redux-sidebar {
+        width: 285px;
+
+        @media only screen and (max-width: 1400px) {
+            width: 200px;
+        }
+    }
+
+    .redux-container .redux-sidebar .redux-group-menu {
+        background-color: var(--sidebar-bg);
+        padding: 10px;
+
+        li a {
+            font-size: 14px;
+            font-weight: 600;
+            padding: 13.5px;
+            width: 100%;
+            box-shadow: none;
+            border-radius: 2.5px;
+    
+            i {
+                display: none;
+            }
+        }
+        
+        li:not(.active) {
+            .image_icon_type {
+                opacity: .6;
+            }
+        }
+    
+        li.active a,
+        li a:hover,
+        li a:focus {
+            background-color: var(--sidebar-hover) !important;
+            width: 100%;
+        }
+    }
+}

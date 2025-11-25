@@ -1,0 +1,17 @@
+.gfx_preloader--circular-outro {
+    position: fixed;
+    top: 50%;
+    left: 0;
+
+    width: 100vw;
+    height: max(100vw, 100vh);
+
+    z-index: 999999998;
+
+    background-color: var(--gfx-titan-bg-color);
+
+    transform: translate(-100%, -50%);
+    transform-origin: center center;
+
+    border-radius: 50%;
+}

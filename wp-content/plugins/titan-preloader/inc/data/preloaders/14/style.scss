@@ -1,0 +1,201 @@
+:root {
+    --gfx-titan-bg-color: #000000;
+    --gfx-titan-bar-border-color: #262626;
+    --gfx-titan-text-color: #ffffff;
+    --titan-loader-bg: #ff8136;
+    --gfx-titan-counter-color: #ff8136;
+
+    --gfx-titan-bar-width: 14.4%;
+
+    @media (max-width: 1400px) {
+        --gfx-titan-bar-width: 20%;
+    }
+
+    @media (max-width: 757px) {
+        --gfx-titan-bar-width: 33.33%;
+    }
+
+    @media (max-width: 500px) {
+        --gfx-titan-bar-width: 80%;
+    }
+}
+
+.gfx_preloader {
+    position: fixed;
+    top: 0;
+    left: 0;
+
+    width: 100vw;
+    height: 100vh;
+
+    z-index: 999999999;
+
+    // background-color: var(--gfx-titan-bg-color);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    &-bars {
+        width: 100vw;
+        height: 100%;
+
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+
+        position: absolute;
+        top: 0;
+        left: 0;
+
+        background-color: var(--gfx-titan-bg-color);
+    }
+
+    &-bar {
+        position: relative;
+        width: calc( var(--gfx-titan-bar-width) + 20px );
+        height: 100%;
+
+        background-color: var(--gfx-titan-bg-color);
+        // border-right: 50px solid var(--gfx-titan-bar-border-color);
+
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+        margin-left: -1px;
+
+        // &::after
+        &-border {
+            width: 2px;
+            height: 100%;
+            background-color: var(--gfx-titan-bar-border-color);
+
+            position: absolute;
+            top: 0;
+            right: 0;
+
+            @media (max-width: 500px) {
+                display: none;
+            }
+        }
+
+        @media (max-width: 1400px) {
+            &:nth-child(n+6) {
+                display: none;
+            }            
+        }
+
+        @media (max-width: 757px) {
+            &:nth-child(n+4) {
+                display: none;
+            }
+        }
+
+        @media (max-width: 500px) {
+            width: 52%;
+            &:nth-child(n+3) {
+                display: none;
+            }
+        }
+    }
+
+    &-content {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        z-index: 1;
+
+        width: var(--gfx-titan-bar-width);
+        text-align: center;
+        padding: 0 10px;
+    }
+
+    &-text {
+        font-size: 20px;
+        line-height: 30px;
+        font-weight: 500;
+        color: var(--gfx-titan-text-color);
+        text-transform: uppercase;
+        margin-top: 30px;
+        letter-spacing: 2px;
+    }
+
+    &-logo {
+        z-index: 1;
+
+        width: var(--gfx-titan-bar-width);
+
+        position: absolute;
+        top: 0;
+        left: var(--gfx-titan-bar-width);
+        padding: 20px;
+
+        img {
+            max-width: 30%;
+        }
+
+        @media (max-width: 757px) {
+            left: 0;
+        }
+    }
+
+    &-counter {
+        position: absolute;
+        right: var(--gfx-titan-bar-width);
+        bottom: 0;
+
+        padding: 0 10px;
+        margin: 50px 0;
+
+        font-size: 80px;
+        color: var(--gfx-titan-counter-color);
+
+        overflow: hidden;
+        max-width: var(--gfx-titan-bar-width);
+        white-space: nowrap;
+
+        font-size: 4vw !important;
+
+        @media (max-width: 1400px) {
+            font-size: 6vw !important;
+        }
+
+        @media (max-width: 757px) {
+            right: 0;
+            margin: 20px 0;
+        }
+
+        @media (max-width: 400px) {
+            font-size: 10vw !important;
+        }
+    }
+
+    .gfx_preloader--loader {
+        width: 1.5vw;
+        height: 1.5vw;
+
+        @media (max-width: 991px) {
+            width: 3vw;
+            height: 3vw;
+        }
+    
+        @media (max-width: 500px) {
+            width: 5vw;
+            height: 5vw;
+        }
+    }
+
+    
+}
+
+body.page-template-page-preloader {
+    .gfx_preloader {
+        &--percent {
+            font-family: 'Outfit';
+        }
+
+        &-counter {
+            font-family: 'Press Start 2P', cursive;
+        }
+
+    }
+}

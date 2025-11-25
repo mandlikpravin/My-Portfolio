@@ -1,0 +1,16 @@
+:root {
+    --gfx-titan-intro-bg-color: #ffffff;
+}
+
+.gfx_preloader--bg-intro {
+    position: fixed;
+    top: 0;
+    left: 0;
+
+    width: 100vw;
+    height: 100vh;
+
+    z-index: 999999998;
+
+    background-color: var(--gfx-titan-intro-bg-color);
+}

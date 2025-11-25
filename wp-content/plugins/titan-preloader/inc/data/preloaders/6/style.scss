@@ -1,0 +1,107 @@
+:root {
+    --gfx-titan-bg-color: #000000;
+    --gfx-titan-loading-text-color: #474747;
+    --gfx-titan-counter-text-color: #474747;
+    --gfx-titan-progress-bg-color: #474747;
+    --gfx-titan-progress-color: #0b7ed7;
+}
+
+.gfx_preloader {
+    position: fixed;
+    top: 0;
+    left: 0;
+
+    width: 100vw;
+    height: 100vh;
+
+    z-index: 999999999;
+
+    background-color: var(--gfx-titan-bg-color);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    &--logo {
+        position: absolute;
+        top: 5vh;
+        left: 5vh;
+
+        img {
+            object-fit: contain;
+        }
+    }
+
+    &--text {
+        font-size: 30px;
+        font-weight: 400;
+        line-height: 1;
+        color: var(--gfx-titan-loading-text-color);
+        text-align: right;
+
+        position: absolute;
+        left: 5vh;
+        bottom: 5vh;
+
+        @media (max-width: 575px) {
+            display: none;
+        }
+    }
+
+    &--loading {
+        position: absolute;
+        right: 5vh;
+        bottom: 5vh;
+
+        min-width: 20vw;
+        overflow: hidden;
+
+        text-align: center;
+    }
+
+    &--progress {
+        background-color: var(--gfx-titan-progress-bg-color);
+        height: 5px;
+        width: 100%;
+        margin-top: 10px;
+
+        position: relative;
+
+        border-radius: 35px;
+
+        &-actual {
+            position: absolute;
+            top: 0;
+            left: 0;
+
+            width: 100%;
+            height: 100%;
+
+            transform: translateX(-100%);
+            background-color: var(--gfx-titan-progress-color);
+            border-radius: inherit;
+        }
+    }
+
+    &--percent {
+        font-size: 200px;
+        font-weight: 100;
+        color: var(--gfx-titan-counter-text-color);
+        line-height: 1;
+        text-align: right;
+
+        @media (max-width: 991px) {
+            font-size: 100px !important;
+        }
+    }
+}
+
+body.page-template-page-preloader {
+    .gfx_preloader {
+        &--text,
+        &--percent {
+            font-family: 'Outfit';
+        }
+    }
+}

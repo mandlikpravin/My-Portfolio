@@ -1,0 +1,64 @@
+:root {
+  --titan-loader-bg: #ffffff;
+}
+
+.gfx_preloader--loader {
+    width: 4vw;
+    height: 4vw;
+    position: relative;
+
+    &::before, &::after {
+        content: '';
+        width: 2vw;
+        height: 2vw;
+        background-color: var(--titan-loader-bg);
+        position: absolute;
+        left: 0;
+        top: 0;
+
+
+        animation: loader5 1.8s infinite ease-in-out;
+    }
+
+    &::after {
+        animation-delay: -.9s;
+    }
+
+    @media (max-width: 991px) {
+        width: 15vw;
+        height: 15vw;
+
+        &::before, &::after {
+            width: 6vw;
+            height: 6vw;
+        }
+    }
+
+    @media (max-width: 575px) {
+        width: 15vw;
+        height: 15vw;
+
+        &::before, &::after {
+            width: 8vw;
+            height: 8vw;
+        }
+    }
+}
+
+@keyframes loader5 {
+  25% {
+    transform: translateX(42px) rotate(-90deg) scale(0.5);
+  }
+  50% {
+    transform: translateX(42px) translateY(42px) rotate(-179deg);
+  }
+  50.1% {
+    transform: translateX(42px) translateY(42px) rotate(-180deg);
+  }
+  75% {
+    transform: translateX(0) translateY(42px) rotate(-270deg) scale(0.5);
+  }
+  to {
+    transform: rotate(-1turn);
+  }
+}

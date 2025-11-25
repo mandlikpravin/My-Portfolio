@@ -1,0 +1,109 @@
+:root {
+    --gfx-titan-bg-color: #0d0f0e;
+    --gfx-titan-counter-color: #ffffff;
+}
+
+.gfx_preloader {
+    position: fixed;
+    top: 0;
+    left: 0;
+
+    width: 100vw;
+    height: 100vh;
+
+    z-index: 999999999;
+
+    background-color: var(--gfx-titan-bg-color);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    &-wrapper {
+        position: relative;
+    }
+
+    &--percent {
+        font-size: 40px;
+        color: #808080;
+
+        position: absolute;
+        top: 20px;
+        right: -30px;
+
+        @media (max-width: 991px) {
+            font-size: 20px !important;
+            // top: 20px;
+            right: -20px;
+        }
+    }
+
+    &--numbers {
+        &-wrapper {
+            display: flex;
+            justify-content: center;
+            align-items: top;
+
+            overflow: hidden;
+        }
+    }
+
+    &--number {
+        font-size: 350px;
+        font-weight: 400;
+        line-height: 0.9;
+        color: var(--gfx-titan-counter-color);
+
+        @media (max-width: 991px) {
+            font-size: 200px !important;
+        }
+
+        @media (max-width: 575px) {
+            font-size: 150px !important;
+        }
+    }
+
+    &--shadow {
+        position: absolute;
+        top: 0;
+        left: 0;
+
+        width: 100%;
+        height: 100%;
+
+        &::before {
+            content: '';
+            width: 100%;
+            height: 50%;
+
+            position: absolute;
+            top: 0;
+            left: 0;
+
+            z-index: 100;
+        }
+
+        &::after {
+            content: '';
+            width: 100%;
+            height: 50%;
+
+            position: absolute;
+            top: 50%;
+            left: 0;
+
+            z-index: 100;
+        }
+    }
+}
+
+body.page-template-page-preloader {
+    --gfx-titan-progress-bg-color: #666666;
+    --gfx-titan-progress-bar-color: #ffffff;
+    .gfx_preloader {
+        &--number,
+        &--percent {
+            font-family: 'Bebas Neue';
+        }
+    }
+}

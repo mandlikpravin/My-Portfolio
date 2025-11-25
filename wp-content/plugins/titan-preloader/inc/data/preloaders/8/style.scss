@@ -1,0 +1,138 @@
+:root {
+    --gfx-titan-bg-color: #6657f7;
+    --gfx-titan-top-text-color: #ffffff;
+    --gfx-titan-text-color: #ffffff;
+    --gfx-titan-progress-text-color: rgba(255, 255, 255, 0.4);
+    --gfx-titan-progress-bar-bg: rgba(00, 00, 00, 0.4);
+    --gfx-titan-progress-bar-color: #ffffff;
+}
+
+.gfx_preloader {
+    position: fixed;
+    top: 0;
+    left: 0;
+
+    width: 100vw;
+    height: 100vh;
+
+    z-index: 999999999;
+
+    background-color: var(--gfx-titan-bg-color);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    &--top-text {
+        font-size: 50px;
+        font-weight: 200;
+        color: var(--gfx-titan-top-text-color);
+        transform: translateY(-50px);
+
+        @media (max-width: 991px) {
+            font-size: 25px !important;
+            line-height: 1 !important;
+            transform: translateY(-25px);
+        }
+    }
+
+    &--text {
+        font-size: 240px;
+        font-weight: 300;
+        line-height: 1;
+        color: var(--gfx-titan-text-color);
+        padding: 1rem 0;
+        text-align: center;
+        backdrop-filter: blur(50px);
+
+        width: max-content;
+        max-width: 100%;
+        margin: 0 auto;
+        word-break: break-all;
+
+        &-wrapper {
+            overflow: hidden;
+            max-width: 100%;
+        }
+
+        &-inner {
+            display: flex;
+            flex-direction: column;
+            max-width: 100%;
+        }
+
+        @media (max-width: 991px) {
+            font-size: 100px !important;
+            line-height: 1 !important;
+        }
+
+        @media (max-width: 575px) {
+            font-size: 70px !important;
+            line-height: 1 !important;
+        }
+    }
+
+    &--progress {
+        background-color: var(--gfx-titan-progress-bar-bg);
+        height: 6px;
+        width: 100%;
+
+        position: absolute;
+        left: 0;
+        bottom: 0;
+
+        &-actual {
+            position: absolute;
+            top: 0;
+            left: -100%;
+
+            width: 100%;
+            height: 100%;
+            background-color: var(--gfx-titan-progress-bar-color);
+        }
+
+        &.gfx-progress-bar-disabled {
+            display: none !important;
+        }
+    }
+
+    &--percent {
+        position: absolute;
+        left: 50%;
+        bottom: 2.5vh;
+        transform: translateX(-50%);
+
+        font-size: 50px;
+        font-weight: 200;
+        color: var(--gfx-titan-progress-text-color);
+
+        &.gfx-progress-bar-disabled {
+            display: none !important;
+        }
+
+        @media (max-width: 991px) {
+            font-size: 25px !important;
+        }
+    }
+
+    &--bg {
+        position: absolute;
+        top: 100%;
+        left: 0;
+
+        width: 100%;
+        height: 100%;
+        background-color: black;
+    }
+}
+
+body.page-template-page-preloader {
+    .gfx_preloader {
+        &--top-text,
+        &--text,
+        &--percent {
+            font-family: 'Outfit';
+        }
+    }
+}

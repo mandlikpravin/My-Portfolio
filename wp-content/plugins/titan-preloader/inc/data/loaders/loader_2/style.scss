@@ -1,0 +1,28 @@
+:root {
+  --titan-loader-bg: #ffffff;
+}
+
+.gfx_preloader--loader {
+    width: 3vw;
+    height: 3vw;
+    background-color: var(--titan-loader-bg);
+
+    animation: loader2 1.2s infinite ease-in-out;
+
+    @media (max-width: 991px) {
+        width: 15vw;
+        height: 15vw;
+    }
+}
+
+@keyframes loader2 {
+    0% {
+      transform: perspective(120px) rotateX(0deg) rotateY(0deg);
+    }
+    50% {
+      transform: perspective(120px) rotateX(-180.1deg) rotateY(0deg);
+    }
+    to {
+      transform: perspective(120px) rotateX(-180deg) rotateY(-180deg);
+    }
+}

@@ -1,0 +1,104 @@
+:root {
+    --gfx-titan-bg-color: #000000;
+    --gfx-titan-progress-bg-color: #1a1a1a;
+    --gfx-titan-progress-color-1: #fe00ff;
+    --gfx-titan-progress-color-2: #9200ff;
+}
+
+.gfx_preloader {
+    position: fixed;
+    top: 0;
+    left: 0;
+
+    width: 100vw;
+    height: 100vh;
+
+    z-index: 999999999;
+
+    background-color: var(--gfx-titan-bg-color);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    &--inner {
+        width: 100%;
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    &--progress {
+        width: 90%;
+        height: 6px;
+        background-color: var(--gfx-titan-progress-bg-color);
+
+        position: relative;
+        border-radius: 15px;
+        overflow: hidden;
+
+        backdrop-filter: blur(50px);
+
+        &-actual {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: var(--gfx-titan-progress-color-1);
+            background: linear-gradient(
+                90deg,
+                var(--gfx-titan-progress-color-1) 0%,
+                var(--gfx-titan-progress-color-2) 100%
+            );
+
+            border-radius: inherit;
+            transform: translateX(-100%);
+        }
+
+        &-wrapper {
+            width: 50%;
+            height: 100%;
+            backdrop-filter: blur(50px);
+
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+            padding: 10px 0;
+
+            @media (max-width: 757px) {
+                width: 60%;
+            }
+
+            @media (max-width: 450px) {
+                width: 80%;
+            }
+        }
+    }
+
+    &--percent {
+        width: 10%;
+        font-size: 20px;
+        color: #ffffff;
+        margin-left: 28px;
+        white-space: nowrap;
+
+        @media (max-width: 450px) {
+            margin-left: 15px;
+        }
+    }
+}
+
+body.page-template-page-preloader {
+    .gfx_preloader {
+        &--percent {
+            font-family: 'Outfit';
+        }
+
+        &--pattern {
+            --pattern-color: rgba(255,255,255,0.2);
+        }
+    }
+}

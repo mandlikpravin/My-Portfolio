@@ -1,0 +1,2543 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023 GfxPartner
+# This file is distributed under the same license as the PACKAGE package.
+# GfxPartner <gfx.partner@hotmail.com>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Titan-Preloader 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-02 17:16+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: index.php:20
+msgid "This file can not be accessed directly"
+msgstr ""
+
+#: index.php:21
+msgid "Unauthorized access"
+msgstr ""
+
+#: inc/data/loaders/loaders_data.php:28
+msgid "Loaders"
+msgstr ""
+
+#: inc/data/loaders/loaders_data.php:36
+msgid "Loader Color"
+msgstr ""
+
+#: inc/data/misc/intro-field.php:8
+msgid "Preloader "
+msgstr ""
+
+#: inc/data/misc/intro-field.php:9
+msgid ""
+"Following settings provide customizations for this particular preloader."
+msgstr ""
+
+#: inc/data/misc/pattern/main.php:34
+msgid "Pattern Settings"
+msgstr ""
+
+#: inc/data/misc/pattern/main.php:35
+msgid "These settings can be used to add and customize patterns."
+msgstr ""
+
+#: inc/data/misc/pattern/main.php:41
+msgid "Pattern"
+msgstr ""
+
+#: inc/data/misc/pattern/main.php:43
+#: inc/options/framework/inc/fields/border/class-redux-border.php:173
+msgid "None"
+msgstr ""
+
+#: inc/data/misc/pattern/main.php:44
+msgid "Plus"
+msgstr ""
+
+#: inc/data/misc/pattern/main.php:45
+msgid "Circular"
+msgstr ""
+
+#: inc/data/misc/pattern/main.php:46
+msgid "Circular Hollow"
+msgstr ""
+
+#: inc/data/misc/pattern/main.php:54
+msgid "Pattern Color"
+msgstr ""
+
+#: inc/data/misc/pattern/main.php:62
+msgid "Pattern Rows"
+msgstr ""
+
+#: inc/data/misc/pattern/main.php:70
+msgid "Pattern Columns"
+msgstr ""
+
+#: inc/data/misc/progress_bar/fields.php:13
+msgid "Progress Bar Settings"
+msgstr ""
+
+#: inc/data/misc/progress_bar/fields.php:14
+msgid "These settings can be used to add and customize progress bar."
+msgstr ""
+
+#: inc/data/misc/progress_bar/fields.php:20
+msgid "Progress Bar"
+msgstr ""
+
+#: inc/data/misc/progress_bar/fields.php:27
+#: inc/data/preloaders/3/fields.php:89 inc/data/preloaders/6/fields.php:95
+msgid "Progress Background Color"
+msgstr ""
+
+#: inc/data/misc/progress_bar/fields.php:36
+#: inc/data/preloaders/8/fields.php:107
+msgid "Progress Bar Color"
+msgstr ""
+
+#: inc/data/preloaders/1/fields.php:19 inc/data/preloaders/11/fields.php:43
+#: inc/data/preloaders/12/fields.php:39 inc/data/preloaders/2/fields.php:27
+#: inc/data/preloaders/6/fields.php:42 inc/data/preloaders/7/fields.php:26
+msgid "Text Typography"
+msgstr ""
+
+#: inc/data/preloaders/1/fields.php:32 inc/data/preloaders/10/fields.php:47
+#: inc/data/preloaders/11/fields.php:71 inc/data/preloaders/12/fields.php:54
+#: inc/data/preloaders/2/fields.php:42 inc/data/preloaders/3/fields.php:80
+#: inc/data/preloaders/5/fields.php:39 inc/data/preloaders/6/fields.php:70
+#: inc/data/preloaders/7/fields.php:41 inc/data/preloaders/8/fields.php:89
+#: inc/data/preloaders/9/fields.php:18
+#: inc/data/transitions/transitions-data.php:101
+#: inc/data/transitions/transitions-data.php:132
+msgid "Background Color"
+msgstr ""
+
+#: inc/data/preloaders/1/fields.php:41
+msgid "First Round Color"
+msgstr ""
+
+#: inc/data/preloaders/1/fields.php:50
+msgid "Second Round Color"
+msgstr ""
+
+#: inc/data/preloaders/10/fields.php:19
+msgid "Number Typography"
+msgstr ""
+
+#: inc/data/preloaders/10/fields.php:32 inc/data/preloaders/8/fields.php:74
+msgid "Percent Typography"
+msgstr ""
+
+#: inc/data/preloaders/11/fields.php:19 inc/data/preloaders/3/fields.php:17
+#: inc/data/preloaders/5/fields.php:17 inc/data/preloaders/6/fields.php:18
+msgid "Image"
+msgstr ""
+
+#: inc/data/preloaders/11/fields.php:29 inc/data/preloaders/3/fields.php:34
+#: inc/data/preloaders/6/fields.php:28
+msgid "Image Size"
+msgstr ""
+
+#: inc/data/preloaders/11/fields.php:36 inc/data/preloaders/3/fields.php:45
+#: inc/data/preloaders/6/fields.php:35
+msgid "Loading text"
+msgstr ""
+
+#: inc/data/preloaders/11/fields.php:37 inc/data/preloaders/6/fields.php:36
+msgid "Loading..."
+msgstr ""
+
+#: inc/data/preloaders/11/fields.php:56 inc/data/preloaders/3/fields.php:65
+#: inc/data/preloaders/6/fields.php:55
+msgid "Counter Typography"
+msgstr ""
+
+#: inc/data/preloaders/11/fields.php:96 inc/data/preloaders/6/fields.php:104
+#: inc/data/preloaders/7/fields.php:59
+msgid "Progress Color"
+msgstr ""
+
+#: inc/data/preloaders/12/fields.php:25 inc/data/preloaders/8/fields.php:27
+msgid "Content"
+msgstr ""
+
+#: inc/data/preloaders/12/fields.php:31 inc/data/preloaders/2/fields.php:20
+#: inc/data/preloaders/7/fields.php:19 inc/data/preloaders/8/fields.php:33
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/class-redux-social-profiles.php:234
+msgid "Text"
+msgstr ""
+
+#: inc/data/preloaders/12/fields.php:32
+msgid "Front End"
+msgstr ""
+
+#: inc/data/preloaders/12/fields.php:63
+msgid "Box Color"
+msgstr ""
+
+#: inc/data/preloaders/2/fields.php:21
+msgid "Welcome."
+msgstr ""
+
+#: inc/data/preloaders/3/fields.php:26
+msgid "Rotate image"
+msgstr ""
+
+#: inc/data/preloaders/3/fields.php:46
+msgid "Envato"
+msgstr ""
+
+#: inc/data/preloaders/3/fields.php:52
+msgid "Loading Text Typography"
+msgstr ""
+
+#: inc/data/preloaders/3/fields.php:98
+msgid "Progress bar Color"
+msgstr ""
+
+#: inc/data/preloaders/4/fields.php:49
+msgid "Background Type"
+msgstr ""
+
+#: inc/data/preloaders/4/fields.php:51
+msgid "Custom"
+msgstr ""
+
+#: inc/data/preloaders/4/fields.php:52
+msgid "Predefined"
+msgstr ""
+
+#: inc/data/preloaders/4/fields.php:60 inc/data/preloaders/4/fields.php:67
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/class-redux-social-profiles.php:247
+msgid "Background"
+msgstr ""
+
+#: inc/data/preloaders/5/fields.php:26
+msgid "Star type"
+msgstr ""
+
+#: inc/data/preloaders/5/fields.php:48
+msgid "Star Color"
+msgstr ""
+
+#: inc/data/preloaders/5/fields.php:57
+msgid "Rocket Color"
+msgstr ""
+
+#: inc/data/preloaders/5/fields.php:66
+msgid "Rocket Background"
+msgstr ""
+
+#: inc/data/preloaders/7/fields.php:20
+msgid "Loading."
+msgstr ""
+
+#: inc/data/preloaders/7/fields.php:50
+msgid "Text Color"
+msgstr ""
+
+#: inc/data/preloaders/8/fields.php:34
+msgid "SOLUTIONS"
+msgstr ""
+
+#: inc/data/preloaders/8/fields.php:41
+msgid "Main Text Typography"
+msgstr ""
+
+#: inc/data/preloaders/8/fields.php:54
+msgid "Top Text"
+msgstr ""
+
+#: inc/data/preloaders/8/fields.php:55
+msgid "We Provide"
+msgstr ""
+
+#: inc/data/preloaders/8/fields.php:61
+msgid "Top Text Typography"
+msgstr ""
+
+#: inc/data/preloaders/8/fields.php:98
+msgid "Progress Bar Background Color"
+msgstr ""
+
+#: inc/data/preloaders/9/fields.php:27
+msgid "Ball Color"
+msgstr ""
+
+#: inc/data/preloaders/9/fields.php:36
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:805
+msgid "Shadow Color"
+msgstr ""
+
+#: inc/data/preloaders/9/fields.php:45
+msgid "Left Circle Color"
+msgstr ""
+
+#: inc/data/preloaders/9/fields.php:54
+msgid "Right Circle Color"
+msgstr ""
+
+#: inc/data/transitions/transitions-data.php:6
+#: inc/data/transitions/transitions-data.php:34
+msgid "To Top"
+msgstr ""
+
+#: inc/data/transitions/transitions-data.php:7
+#: inc/data/transitions/transitions-data.php:35
+msgid "To Down"
+msgstr ""
+
+#: inc/data/transitions/transitions-data.php:8
+#: inc/data/transitions/transitions-data.php:36
+msgid "To Left"
+msgstr ""
+
+#: inc/data/transitions/transitions-data.php:9
+#: inc/data/transitions/transitions-data.php:37
+msgid "To Right"
+msgstr ""
+
+#: inc/data/transitions/transitions-data.php:11
+#: inc/data/transitions/transitions-data.php:39
+msgid "To Top - with Background"
+msgstr ""
+
+#: inc/data/transitions/transitions-data.php:12
+#: inc/data/transitions/transitions-data.php:40
+msgid "To Down - with Background"
+msgstr ""
+
+#: inc/data/transitions/transitions-data.php:13
+#: inc/data/transitions/transitions-data.php:41
+msgid "To Left - with Background"
+msgstr ""
+
+#: inc/data/transitions/transitions-data.php:14
+#: inc/data/transitions/transitions-data.php:42
+msgid "To Right - with Background"
+msgstr ""
+
+#: inc/data/transitions/transitions-data.php:16
+#: inc/data/transitions/transitions-data.php:44
+msgid "To Top - Circular"
+msgstr ""
+
+#: inc/data/transitions/transitions-data.php:17
+#: inc/data/transitions/transitions-data.php:45
+msgid "To Down - Circular"
+msgstr ""
+
+#: inc/data/transitions/transitions-data.php:18
+#: inc/data/transitions/transitions-data.php:46
+msgid "To Left - Circular"
+msgstr ""
+
+#: inc/data/transitions/transitions-data.php:19
+#: inc/data/transitions/transitions-data.php:47
+msgid "To Right - Circular"
+msgstr ""
+
+#: inc/data/transitions/transitions-data.php:21
+msgid "Fade Out"
+msgstr ""
+
+#: inc/data/transitions/transitions-data.php:22
+msgid "Fade Out - to Top"
+msgstr ""
+
+#: inc/data/transitions/transitions-data.php:23
+msgid "Fade Out - to Bottom"
+msgstr ""
+
+#: inc/data/transitions/transitions-data.php:24
+msgid "Fade Out - to Left"
+msgstr ""
+
+#: inc/data/transitions/transitions-data.php:25
+msgid "Fade Out - to Right"
+msgstr ""
+
+#: inc/data/transitions/transitions-data.php:49
+msgid "Fade In"
+msgstr ""
+
+#: inc/data/transitions/transitions-data.php:50
+msgid "Fade In - to Top"
+msgstr ""
+
+#: inc/data/transitions/transitions-data.php:51
+msgid "Fade In - to Bottom"
+msgstr ""
+
+#: inc/data/transitions/transitions-data.php:52
+msgid "Fade In - to Left"
+msgstr ""
+
+#: inc/data/transitions/transitions-data.php:53
+msgid "Fade In - to Right"
+msgstr ""
+
+#: inc/data/transitions/transitions-data.php:81
+msgid "Transition Settings."
+msgstr ""
+
+#: inc/data/transitions/transitions-data.php:82
+msgid ""
+"These settings can be used to customize how the preloader shows up or hides "
+"away"
+msgstr ""
+
+#: inc/data/transitions/transitions-data.php:88
+msgid "Intro Transition"
+msgstr ""
+
+#: inc/data/transitions/transitions-data.php:119
+msgid "Outro Transition"
+msgstr ""
+
+#: inc/options/config/config.php:77
+msgid "Titan"
+msgstr ""
+
+#: inc/options/config/config.php:89 inc/options/config/config.php:92
+msgid "Titan Preloaders"
+msgstr ""
+
+#: inc/options/config/config.php:294
+msgid "Theme Information 1"
+msgstr ""
+
+#: inc/options/config/config.php:295 inc/options/config/config.php:300
+msgid "This is the tab content, HTML is allowed."
+msgstr ""
+
+#: inc/options/config/config.php:299
+msgid "Theme Information 2"
+msgstr ""
+
+#: inc/options/config/config.php:306
+msgid "This is the sidebar content, HTML is allowed."
+msgstr ""
+
+#: inc/options/config/config.php:325
+msgid "General"
+msgstr ""
+
+#: inc/options/config/config.php:327
+msgid "Settings used to change plugin's behaviour"
+msgstr ""
+
+#: inc/options/config/config.php:338
+msgid "Preloaders"
+msgstr ""
+
+#: inc/options/config/config.php:340
+msgid "Settings used to select and customize preloaders."
+msgstr ""
+
+#: inc/options/config/config.php:352
+msgid "Exclusion"
+msgstr ""
+
+#: inc/options/config/config.php:354
+msgid ""
+"Settings used to exclude certain pages, posts or post types from displaying "
+"the preloader."
+msgstr ""
+
+#: inc/options/config/config.php:526
+msgid "Testing filter hook!"
+msgstr ""
+
+#: inc/options/config/fields/exclusion.php:8
+msgid "Pages"
+msgstr ""
+
+#: inc/options/config/fields/exclusion.php:15
+msgid "Posts"
+msgstr ""
+
+#: inc/options/config/fields/exclusion.php:22
+msgid "Post Types"
+msgstr ""
+
+#: inc/options/config/fields/general.php:8
+msgid "Enable Titan Preloader"
+msgstr ""
+
+#: inc/options/config/fields/general.php:14
+msgid "Page Transition"
+msgstr ""
+
+#: inc/options/config/fields/general.php:20
+msgid "Display settings"
+msgstr ""
+
+#: inc/options/config/fields/general.php:23
+msgid "Sitewide"
+msgstr ""
+
+#: inc/options/config/fields/general.php:24
+msgid "Once per tab"
+msgstr ""
+
+#: inc/options/config/fields/general.php:25
+msgid "Homepage only"
+msgstr ""
+
+#: inc/options/config/fields/general.php:26
+msgid "Homepage + once per tab"
+msgstr ""
+
+#: inc/options/framework/class-redux-core.php:316
+msgid "The Redux upload directory"
+msgstr ""
+
+#: inc/options/framework/class-redux-core.php:322
+msgid "Redux Framework"
+msgstr ""
+
+#: inc/options/framework/class-redux-core.php:323
+msgid "Debug information specific to Redux Framework."
+msgstr ""
+
+#: inc/options/framework/class-redux-core.php:326
+#: inc/options/framework/inc/welcome/views/about.php:25
+#: inc/options/framework/inc/welcome/views/about.php:131
+#: inc/options/framework/inc/welcome/views/templates.php:23
+msgid "Version"
+msgstr ""
+
+#: inc/options/framework/class-redux-core.php:330
+msgid "Installation"
+msgstr ""
+
+#: inc/options/framework/class-redux-core.php:334
+msgid "Data directory"
+msgstr ""
+
+#: inc/options/framework/class-redux-core.php:338
+msgid "Browser"
+msgstr ""
+
+#: inc/options/framework/class-redux-core.php:371
+#, php-format
+msgid "Redux Instance: %s"
+msgstr ""
+
+#: inc/options/framework/class-redux-core.php:373
+#, php-format
+msgid "Debug information for the %s Redux instance."
+msgstr ""
+
+#: inc/options/framework/framework.php:407
+#: inc/options/framework/framework.php:416
+msgid "Cheatin&#8217; eh?"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-admin-notices.php:136
+msgid "Dismiss"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-ajax-save.php:42
+#: inc/options/framework/inc/classes/class-redux-ajax-select2.php:38
+msgid "Invalid security credential.  Please reload the page and try again."
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-ajax-save.php:52
+#: inc/options/framework/inc/classes/class-redux-ajax-select2.php:42
+msgid "Invalid user capability.  Please reload the page and try again."
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-ajax-save.php:114
+msgid "Your panel has no fields. Nothing to save."
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-api.php:144
+msgid "Warning, Premature Initialization"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-api.php:147
+#, php-format
+msgid "was run before the %s hook and was delayed to avoid errors."
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-api.php:376
+msgid "Redux Framework is not installed. Please install it."
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-api.php:755
+msgid "Unable to create a section due to missing id and title."
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-api.php:773
+#: inc/options/framework/inc/extensions/metaboxes/class-redux-metaboxes-api.php:448
+msgid ""
+"Unable to create a section due an empty section array or the section "
+"variable passed was not an array."
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-args.php:134
+msgid "Regular 400"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-args.php:138
+msgid "Regular 400 Italic"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-args.php:142
+msgid "Bold 700"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-args.php:146
+msgid "Bold 700 Italic"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-args.php:269
+#, php-format
+msgid ""
+"Enjoyed %1$s? Please leave us a %2$s rating. We really appreciate your "
+"support!"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-args.php:270
+#: inc/options/framework/inc/classes/class-redux-user-feedback.php:319
+#: inc/options/framework/inc/welcome/class-redux-welcome.php:113
+msgid "Redux"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-args.php:277
+#: inc/options/framework/inc/classes/class-redux-args.php:281
+#: inc/options/framework/inc/extensions/metaboxes/class-redux-extension-metaboxes.php:994
+msgid "Options"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-args.php:343
+msgid "Redux Framework Notice"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-args.php:344
+msgid ""
+"There are references to the Redux Framework support site in your config's "
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-args.php:345
+#: inc/options/framework/inc/classes/class-redux-args.php:362
+msgid ""
+"argument.  This is sample data.  Please change or remove this data before "
+"shipping your product."
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-args.php:360
+msgid "Redux Framework Notice:"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-args.php:361
+msgid ""
+"There are references to the Redux Framework support site in your config's"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-cdn.php:127
+msgid ""
+"Please wait a few minutes, then try refreshing the page. Unable to load some "
+"remotely hosted scripts."
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-cdn.php:130
+#, php-format
+msgid ""
+"If you are developing offline, please download and install the %s plugin/"
+"extension to bypass our CDN and avoid this warning"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-cdn.php:134
+msgid "Redux Framework Warning"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-cdn.php:134
+#, php-format
+msgid "%s CDN unavailable.  Some controls may not render properly."
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-cdn.php:182
+#, php-format
+msgid ""
+"The %1$s (or extension) is either not installed or not activated and thus, "
+"some controls may not render properly.  Please ensure that it is installed "
+"and %2$s"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-cdn.php:182
+msgid "activated."
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-enqueue.php:628
+#: inc/options/framework/inc/extensions/customizer/class-redux-extension-customizer.php:726
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-enqueue.php:644
+#: inc/options/framework/inc/extensions/customizer/class-redux-extension-customizer.php:727
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-enqueue.php:660
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-enqueue.php:676
+#: inc/options/framework/inc/extensions/customizer/class-redux-extension-customizer.php:728
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-enqueue.php:692
+msgid ""
+"Your current options will be replaced with the values of this import. Would "
+"you like to proceed?"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-enqueue.php:706
+msgid "Please Wait"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-enqueue.php:719
+msgid "There was an error saving. Here is the result of your action:"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-enqueue.php:723
+msgid ""
+"There was a problem with your action. Please try again or reload the page."
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-extension-abstract.php:221
+#, php-format
+msgid "The %1$s extension requires Redux Framework version %2$s or higher."
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-extension-abstract.php:221
+msgid "You are currently running Redux Framework version "
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-extension-abstract.php:221
+msgid ""
+"This field will not render in your option panel, and features of this "
+"extension will not be available until the latest version of Redux Framework "
+"has been installed."
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-extensions.php:96
+#, php-format
+msgid "The `%s` extension was not located properly"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-field.php:37
+msgid "Field ID"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-field.php:38
+#: inc/options/framework/inc/extensions/repeater/repeater/class-redux-repeater.php:143
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-widget.php:199
+#: inc/options/framework/inc/fields/slides/class-redux-slides.php:128
+#: inc/options/framework/inc/fields/slides/class-redux-slides.php:263
+msgid "Title"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-field.php:39
+msgid "Subtitle"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-field.php:40
+#: inc/options/framework/inc/fields/slides/class-redux-slides.php:140
+#: inc/options/framework/inc/fields/slides/class-redux-slides.php:276
+msgid "Description"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-field.php:41
+msgid "Class"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-field.php:42
+msgid "Compiler"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-field.php:43
+#: inc/options/framework/inc/classes/class-redux-page-render.php:993
+msgid "Default"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-field.php:44
+msgid "Disabled"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-field.php:45
+msgid "Hint"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-field.php:46
+msgid "Permissions"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-field.php:47
+msgid "Required"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-filesystem.php:142
+#: inc/options/framework/inc/classes/class-redux-filesystem.php:436
+msgid "File Permission Issues"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-filesystem.php:142
+#: inc/options/framework/inc/classes/class-redux-filesystem.php:436
+#, php-format
+msgid ""
+"We were unable to modify required files. Please ensure that %1$s has the "
+"proper read-write permissions, or modify your wp-config.php file to contain "
+"your FTP login credentials as %2$s."
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-filesystem.php:142
+#: inc/options/framework/inc/classes/class-redux-filesystem.php:436
+msgid "outlined here"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-health.php:52
+msgid "Security token"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-health.php:87
+msgid "Data transmit"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-helpers.php:733
+msgid "version"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-helpers.php:733
+msgid "is out of date. The core version is"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-page-render.php:174
+msgid "Enable"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-page-render.php:179
+msgid "Disable"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-page-render.php:186
+msgid "moving the mouse over"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-page-render.php:188
+msgid "clicking"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-page-render.php:193
+#, php-format
+msgid ""
+"Hints are tooltips that popup when %1$s the hint icon, offering addition "
+"information about the field in which they appear.  They can be %2$s by using "
+"the link below."
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-page-render.php:198
+msgid "Hints"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-page-render.php:214
+msgid "Hint Tooltip Preferences"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-page-render.php:517
+#, php-format
+msgid "Field %1$s could not be displayed. Field type %2$s was not found."
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-panel.php:86
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-panel.php:104
+msgid "Submit Support Information?"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-panel.php:106
+#, php-format
+msgid ""
+"Redux will send the debug information found on the %s and your Redux config "
+"to our secure server.  Are you ready to proceed?"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-panel.php:106
+msgid "WordPress Site Health screen"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-panel.php:166
+#: inc/options/framework/inc/extensions/metaboxes/class-redux-extension-metaboxes.php:1213
+msgid "Settings Imported!"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-panel.php:187
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-panel.php:208
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-panel.php:229
+msgid "Settings Saved!"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-panel.php:256
+#: inc/options/framework/inc/extensions/metaboxes/class-redux-extension-metaboxes.php:1217
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-panel.php:270
+#: inc/options/framework/inc/extensions/metaboxes/class-redux-extension-metaboxes.php:1221
+#: inc/options/framework/inc/extensions/metaboxes/class-redux-extension-metaboxes.php:1527
+msgid "error(s) were found!"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-panel.php:285
+#: inc/options/framework/inc/extensions/metaboxes/class-redux-extension-metaboxes.php:1225
+msgid "warning(s) were found!"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-panel.php:405
+msgid ""
+"Your panel has bundled copies of Redux Framework template files that are "
+"outdated!"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-panel.php:405
+msgid "Please update them now as functionality issues could arise."
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-rest-api-builder.php:68
+#: inc/options/framework/inc/classes/class-redux-rest-api-builder.php:83
+msgid "The field type"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-user-feedback.php:99
+#, php-format
+msgid "%s years"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-user-feedback.php:101
+msgid "a year"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-user-feedback.php:108
+#, php-format
+msgid "%s weeks"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-user-feedback.php:110
+msgid "a week"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-user-feedback.php:117
+#, php-format
+msgid "%s days"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-user-feedback.php:119
+msgid "a day"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-user-feedback.php:126
+#, php-format
+msgid "%s hours"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-user-feedback.php:128
+msgid "an hour"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-user-feedback.php:135
+#, php-format
+msgid "%s minutes"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-user-feedback.php:137
+msgid "a minute"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-user-feedback.php:144
+#, php-format
+msgid "%s seconds"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-user-feedback.php:146
+msgid "a second"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-user-feedback.php:278
+#, php-format
+msgid "%s WordPress Plugin"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-user-feedback.php:282
+#, php-format
+msgid "Are you enjoying %s?"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-user-feedback.php:285
+#, php-format
+msgid ""
+"You have been using %1$s for %2$s now. Would you mind leaving a review to "
+"let us know know what you think? We'd really appreciate it!"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-user-feedback.php:289
+msgid "Leave a Review"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-user-feedback.php:290
+msgid "No thanks / I already have"
+msgstr ""
+
+#: inc/options/framework/inc/classes/class-redux-wordpress-data.php:358
+msgid "[unassigned]"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/customizer/class-redux-extension-customizer.php:750
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/customizer/class-redux-extension-customizer.php:751
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: inc/options/framework/inc/extensions/customizer/class-redux-extension-customizer.php:752
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/customizer/inc/class-redux-customizer-panel.php:109
+#: inc/options/framework/inc/extensions/customizer/inc/class-redux-customizer-panel.php:231
+msgid "Press return or enter to open this panel"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/customizer/inc/class-redux-customizer-panel.php:138
+#: inc/options/framework/inc/extensions/customizer/inc/class-redux-customizer-panel.php:197
+msgid "You are customizing"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/customizer/inc/class-redux-customizer-panel.php:193
+#: inc/options/framework/inc/extensions/customizer/inc/class-redux-customizer-section.php:181
+msgid "Back"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/customizer/inc/class-redux-customizer-panel.php:204
+msgid "Help"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/customizer/inc/class-redux-customizer-section.php:98
+msgid "Press return or enter to expand"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/customizer/inc/class-redux-customizer-section.php:144
+#, php-format
+msgid "Customizing &#9656; %s"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/customizer/inc/class-redux-customizer-section.php:146
+msgid "Customizing"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/customizer/inc/class-redux-customizer-section.php:175
+msgid "Press return or enter to open"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/datetime/datetime/class-redux-datetime.php:149
+msgid "Date"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/datetime/datetime/class-redux-datetime.php:150
+msgid "Time"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/datetime/datetime/class-redux-datetime.php:152
+msgid "Date / Time"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/import_export/class-redux-extension-import-export.php:84
+msgid "Import / Export"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/import_export/import_export/class-redux-import-export.php:77
+msgid "Import Options"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/import_export/import_export/class-redux-import-export.php:83
+msgid "Import from Clipboard"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/import_export/import_export/class-redux-import-export.php:89
+msgid "Upload file"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/import_export/import_export/class-redux-import-export.php:96
+msgid "Paste your clipboard data here."
+msgstr ""
+
+#: inc/options/framework/inc/extensions/import_export/import_export/class-redux-import-export.php:109
+msgid "Import"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/import_export/import_export/class-redux-import-export.php:112
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/import_export/import_export/class-redux-import-export.php:120
+msgid "Export Options"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/import_export/import_export/class-redux-import-export.php:124
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: inc/options/framework/inc/extensions/import_export/import_export/class-redux-import-export.php:131
+#: inc/options/framework/inc/extensions/import_export/import_export/class-redux-import-export.php:133
+msgid "Copy to Clipboard"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/import_export/import_export/class-redux-import-export.php:132
+msgid "Copied!"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/import_export/import_export/class-redux-import-export.php:136
+msgid "Export File"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/import_export/import_export/class-redux-import-export.php:168
+msgid "Your panel has unchanged values, would you like to save them now?"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/metaboxes/class-redux-extension-metaboxes.php:1230
+#: inc/options/framework/templates/panel/header-stickybar.tpl.php:16
+#: inc/options/templates/panel/header-stickybar.tpl.php:16
+msgid "Expand"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/metaboxes/class-redux-extension-metaboxes.php:1533
+msgid "warnings(s) were found!"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/metaboxes/class-redux-metaboxes-api.php:636
+msgid ""
+"Unable to create a box due an empty box array or the box variable passed was "
+"not an array."
+msgstr ""
+
+#: inc/options/framework/inc/extensions/multi_media/multi_media/class-redux-multi-media.php:32
+msgid "Add or Upload File(s)"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/multi_media/multi_media/class-redux-multi-media.php:123
+#: inc/options/framework/inc/extensions/multi_media/multi_media/class-redux-multi-media.php:229
+msgid "Remove Image"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/multi_media/multi_media/class-redux-multi-media.php:146
+#: inc/options/framework/inc/extensions/multi_media/multi_media/class-redux-multi-media.php:231
+msgid "File: "
+msgstr ""
+
+#: inc/options/framework/inc/extensions/multi_media/multi_media/class-redux-multi-media.php:148
+#: inc/options/framework/inc/extensions/multi_media/multi_media/class-redux-multi-media.php:232
+msgid "Download"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/multi_media/multi_media/class-redux-multi-media.php:148
+#: inc/options/framework/inc/extensions/multi_media/multi_media/class-redux-multi-media.php:230
+#: inc/options/framework/inc/fields/background/class-redux-background.php:337
+#: inc/options/framework/inc/fields/media/class-redux-media.php:249
+#: inc/options/framework/inc/fields/multi_text/class-redux-multi-text.php:60
+#: inc/options/framework/inc/fields/multi_text/class-redux-multi-text.php:77
+#: inc/options/framework/inc/fields/multi_text/class-redux-multi-text.php:99
+#: inc/options/framework/inc/fields/slides/class-redux-slides.php:116
+#: inc/options/framework/inc/fields/slides/class-redux-slides.php:251
+msgid "Remove"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/multi_media/multi_media/class-redux-multi-media.php:228
+msgid "Select File(s)"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/multi_media/multi_media/class-redux-multi-media.php:236
+#, php-format
+msgid "%s already exists in your file queue."
+msgstr ""
+
+#: inc/options/framework/inc/extensions/multi_media/multi_media/class-redux-multi-media.php:239
+#, php-format
+msgid "Maximum upload limit of %s reached/exceeded."
+msgstr ""
+
+#: inc/options/framework/inc/extensions/options_object/class-redux-extension-options-object.php:72
+#: inc/options/framework/inc/extensions/options_object/options_object/class-redux-options-object.php:100
+msgid "Options Object"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/options_object/options_object/class-redux-options-object.php:106
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/repeater/repeater/class-redux-repeater.php:160
+msgid "The"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/repeater/repeater/class-redux-repeater.php:160
+msgid "field is not supported within the Repeater field."
+msgstr ""
+
+#: inc/options/framework/inc/extensions/repeater/repeater/class-redux-repeater.php:167
+#: inc/options/framework/inc/extensions/repeater/repeater/class-redux-repeater.php:219
+#: inc/options/framework/inc/extensions/repeater/repeater/class-redux-repeater.php:393
+#: inc/options/framework/inc/extensions/widget_areas/class-redux-widget-areas.php:297
+#: inc/options/framework/inc/fields/slides/class-redux-slides.php:215
+#: inc/options/framework/inc/fields/slides/class-redux-slides.php:351
+msgid "Delete"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/repeater/repeater/class-redux-repeater.php:242
+msgid "Add"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/search/class-redux-extension-search.php:101
+msgid "Search for field(s)"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/class-redux-social-profiles.php:126
+#, php-format
+msgid ""
+"Go to the %1$s page to add the Redux Social Widget to any active widget area."
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/class-redux-social-profiles.php:126
+msgid "Widgets"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/class-redux-social-profiles.php:171
+msgid "Link URL"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/class-redux-social-profiles.php:217
+msgid "Enabled"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/class-redux-social-profiles.php:227
+msgid "Reset"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:30
+msgid "ADN"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:40
+msgid "Android"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:50
+msgid "Apple"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:61
+msgid "behance"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:71
+msgid "behance square"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:81
+msgid "Bitbucket"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:91
+msgid "Bitbucket square"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:101
+msgid "Bitcoin"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:111
+msgid "CodePen"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:121
+msgid "CSS3"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:131
+msgid "Delicious"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:141
+msgid "Deviantart"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:151
+msgid "Digg"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:161
+msgid "Dribbble"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:171
+msgid "Dropbox"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:181
+msgid "Drupal"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:191
+msgid "Empire"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:201
+msgid "Facebook"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:211
+msgid "Facebook square"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:221
+msgid "Flickr"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:231
+msgid "FourSquare"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:241
+msgid "git"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:251
+msgid "git square"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:261
+msgid "github"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:271
+msgid "github alt"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:281
+msgid "github square"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:291
+msgid "git tip"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:301
+msgid "Google"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:311
+msgid "Google Plus"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:321
+msgid "Google Plus square"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:331
+msgid "Hacker News"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:341
+msgid "HTML5"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:351
+msgid "Instagram"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:361
+msgid "Joomla"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:371
+msgid "JS Fiddle"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:381
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:391
+msgid "LinkedIn square"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:401
+msgid "Linux"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:411
+msgid "MaxCDN"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:421
+msgid "OpenID"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:431
+msgid "Page Lines"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:441
+msgid "Pied Piper"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:451
+msgid "Pied Piper alt"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:461
+msgid "Pinterest"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:471
+msgid "Pinterest square"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:481
+msgid "QQ"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:491
+msgid "Rebel"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:501
+msgid "Reddit"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:511
+msgid "Reddit square"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:521
+msgid "Ren Ren"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:531
+msgid "Share alt"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:541
+msgid "Share square"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:551
+msgid "Skype"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:561
+msgid "Slack"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:571
+msgid "Sound Cloud"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:581
+msgid "Spotify"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:591
+msgid "Stack Exchange"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:601
+msgid "Stack Overflow"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:611
+msgid "Steam"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:621
+msgid "Steam square"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:631
+msgid "Stumble Upon"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:641
+msgid "Stumble Upon circle"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:651
+msgid "Tencent Weibo"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:661
+msgid "Trello"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:671
+msgid "Tumblr"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:681
+msgid "Tumblr square"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:691
+msgid "Twitter"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:701
+msgid "Twitter square"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:711
+msgid "Vimeo square"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:721
+msgid "Vine"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:731
+msgid "VK"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:741
+msgid "Weibo"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:751
+msgid "Weixin"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:761
+msgid "Windows"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:771
+msgid "WordPress"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:781
+msgid "Xing"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:791
+msgid "Xing square"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:801
+msgid "Yahoo"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:811
+msgid "Yelp"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:821
+msgid "YouTube"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:831
+msgid "YouTube play"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:841
+msgid "YouTube square"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-widget.php:102
+msgid "Display social media links"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-widget.php:192
+msgid "Social"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-widget.php:213
+#, php-format
+msgid ""
+"Control which icons are displayed and their urls on the %1$sssettings page"
+"%2$s"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/widget_areas/class-redux-widget-areas.php:89
+#: inc/options/framework/inc/extensions/widget_areas/class-redux-widget-areas.php:106
+msgid "Create Widget Area"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/widget_areas/class-redux-widget-areas.php:98
+#: inc/options/framework/inc/extensions/widget_areas/class-redux-widget-areas.php:99
+msgid "Name"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/widget_areas/class-redux-widget-areas.php:298
+msgid "Confirm"
+msgstr ""
+
+#: inc/options/framework/inc/extensions/widget_areas/class-redux-widget-areas.php:299
+#: inc/options/framework/inc/fields/color_rgba/class-redux-color-rgba.php:43
+msgid "Cancel"
+msgstr ""
+
+#: inc/options/framework/inc/fields/background/class-redux-background.php:121
+#: inc/options/framework/inc/fields/color/class-redux-color.php:76
+#: inc/options/framework/inc/fields/color_gradient/class-redux-color-gradient.php:132
+msgid "Transparent"
+msgstr ""
+
+#: inc/options/framework/inc/fields/background/class-redux-background.php:131
+msgid "No Repeat"
+msgstr ""
+
+#: inc/options/framework/inc/fields/background/class-redux-background.php:132
+msgid "Repeat All"
+msgstr ""
+
+#: inc/options/framework/inc/fields/background/class-redux-background.php:133
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: inc/options/framework/inc/fields/background/class-redux-background.php:134
+msgid "Repeat Vertically"
+msgstr ""
+
+#: inc/options/framework/inc/fields/background/class-redux-background.php:135
+#: inc/options/framework/inc/fields/background/class-redux-background.php:150
+#: inc/options/framework/inc/fields/background/class-redux-background.php:168
+#: inc/options/framework/inc/fields/background/class-redux-background.php:186
+#: inc/options/framework/inc/fields/background/class-redux-background.php:205
+msgid "Inherit"
+msgstr ""
+
+#: inc/options/framework/inc/fields/background/class-redux-background.php:138
+msgid "Background Repeat"
+msgstr ""
+
+#: inc/options/framework/inc/fields/background/class-redux-background.php:151
+#: inc/options/framework/inc/fields/background/class-redux-background.php:169
+msgid "Border Box"
+msgstr ""
+
+#: inc/options/framework/inc/fields/background/class-redux-background.php:152
+#: inc/options/framework/inc/fields/background/class-redux-background.php:170
+msgid "Content Box"
+msgstr ""
+
+#: inc/options/framework/inc/fields/background/class-redux-background.php:153
+#: inc/options/framework/inc/fields/background/class-redux-background.php:171
+msgid "Padding Box"
+msgstr ""
+
+#: inc/options/framework/inc/fields/background/class-redux-background.php:156
+msgid "Background Clip"
+msgstr ""
+
+#: inc/options/framework/inc/fields/background/class-redux-background.php:174
+msgid "Background Origin"
+msgstr ""
+
+#: inc/options/framework/inc/fields/background/class-redux-background.php:187
+msgid "Cover"
+msgstr ""
+
+#: inc/options/framework/inc/fields/background/class-redux-background.php:188
+msgid "Contain"
+msgstr ""
+
+#: inc/options/framework/inc/fields/background/class-redux-background.php:191
+msgid "Background Size"
+msgstr ""
+
+#: inc/options/framework/inc/fields/background/class-redux-background.php:203
+msgid "Fixed"
+msgstr ""
+
+#: inc/options/framework/inc/fields/background/class-redux-background.php:204
+msgid "Scroll"
+msgstr ""
+
+#: inc/options/framework/inc/fields/background/class-redux-background.php:208
+msgid "Background Attachment"
+msgstr ""
+
+#: inc/options/framework/inc/fields/background/class-redux-background.php:220
+msgid "Left Top"
+msgstr ""
+
+#: inc/options/framework/inc/fields/background/class-redux-background.php:221
+msgid "Left center"
+msgstr ""
+
+#: inc/options/framework/inc/fields/background/class-redux-background.php:222
+msgid "Left Bottom"
+msgstr ""
+
+#: inc/options/framework/inc/fields/background/class-redux-background.php:223
+msgid "Center Top"
+msgstr ""
+
+#: inc/options/framework/inc/fields/background/class-redux-background.php:224
+msgid "Center Center"
+msgstr ""
+
+#: inc/options/framework/inc/fields/background/class-redux-background.php:225
+msgid "Center Bottom"
+msgstr ""
+
+#: inc/options/framework/inc/fields/background/class-redux-background.php:226
+msgid "Right Top"
+msgstr ""
+
+#: inc/options/framework/inc/fields/background/class-redux-background.php:227
+msgid "Right center"
+msgstr ""
+
+#: inc/options/framework/inc/fields/background/class-redux-background.php:228
+msgid "Right Bottom"
+msgstr ""
+
+#: inc/options/framework/inc/fields/background/class-redux-background.php:231
+msgid "Background Position"
+msgstr ""
+
+#: inc/options/framework/inc/fields/background/class-redux-background.php:285
+#: inc/options/framework/inc/fields/media/class-redux-media.php:89
+msgid "No media selected"
+msgstr ""
+
+#: inc/options/framework/inc/fields/background/class-redux-background.php:330
+#: inc/options/framework/inc/fields/media/class-redux-media.php:242
+#: inc/options/framework/inc/fields/slides/class-redux-slides.php:105
+#: inc/options/framework/inc/fields/slides/class-redux-slides.php:249
+msgid "Upload"
+msgstr ""
+
+#: inc/options/framework/inc/fields/border/class-redux-border.php:106
+#: inc/options/framework/inc/fields/spacing/class-redux-spacing.php:165
+msgid "All"
+msgstr ""
+
+#: inc/options/framework/inc/fields/border/class-redux-border.php:123
+#: inc/options/framework/inc/fields/spacing/class-redux-spacing.php:223
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:679
+msgid "Top"
+msgstr ""
+
+#: inc/options/framework/inc/fields/border/class-redux-border.php:135
+#: inc/options/framework/inc/fields/spacing/class-redux-spacing.php:239
+msgid "Right"
+msgstr ""
+
+#: inc/options/framework/inc/fields/border/class-redux-border.php:147
+#: inc/options/framework/inc/fields/spacing/class-redux-spacing.php:255
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:706
+msgid "Bottom"
+msgstr ""
+
+#: inc/options/framework/inc/fields/border/class-redux-border.php:159
+#: inc/options/framework/inc/fields/spacing/class-redux-spacing.php:271
+msgid "Left"
+msgstr ""
+
+#: inc/options/framework/inc/fields/border/class-redux-border.php:169
+msgid "Solid"
+msgstr ""
+
+#: inc/options/framework/inc/fields/border/class-redux-border.php:170
+msgid "Dashed"
+msgstr ""
+
+#: inc/options/framework/inc/fields/border/class-redux-border.php:171
+msgid "Dotted"
+msgstr ""
+
+#: inc/options/framework/inc/fields/border/class-redux-border.php:172
+msgid "Double"
+msgstr ""
+
+#: inc/options/framework/inc/fields/border/class-redux-border.php:176
+msgid "Border style"
+msgstr ""
+
+#: inc/options/framework/inc/fields/box_shadow/class-redux-box-shadow.php:92
+msgid "Shadow"
+msgstr ""
+
+#: inc/options/framework/inc/fields/box_shadow/class-redux-box-shadow.php:111
+msgid "Horizontal Length "
+msgstr ""
+
+#: inc/options/framework/inc/fields/box_shadow/class-redux-box-shadow.php:120
+msgid "Horizontal Length"
+msgstr ""
+
+#: inc/options/framework/inc/fields/box_shadow/class-redux-box-shadow.php:135
+msgid "Vertical Length "
+msgstr ""
+
+#: inc/options/framework/inc/fields/box_shadow/class-redux-box-shadow.php:144
+msgid "Vertical Length"
+msgstr ""
+
+#: inc/options/framework/inc/fields/box_shadow/class-redux-box-shadow.php:159
+msgid "Blur Radius "
+msgstr ""
+
+#: inc/options/framework/inc/fields/box_shadow/class-redux-box-shadow.php:168
+msgid "Blur Radius"
+msgstr ""
+
+#: inc/options/framework/inc/fields/box_shadow/class-redux-box-shadow.php:183
+msgid "Spread "
+msgstr ""
+
+#: inc/options/framework/inc/fields/box_shadow/class-redux-box-shadow.php:192
+msgid "Spread"
+msgstr ""
+
+#: inc/options/framework/inc/fields/color_rgba/class-redux-color-rgba.php:42
+msgid "Choose"
+msgstr ""
+
+#: inc/options/framework/inc/fields/color_rgba/class-redux-color-rgba.php:45
+msgid "Select Color"
+msgstr ""
+
+#: inc/options/framework/inc/fields/dimensions/class-redux-dimensions.php:144
+msgid "Width"
+msgstr ""
+
+#: inc/options/framework/inc/fields/dimensions/class-redux-dimensions.php:173
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:597
+msgid "Height"
+msgstr ""
+
+#: inc/options/framework/inc/fields/dimensions/class-redux-dimensions.php:194
+#: inc/options/framework/inc/fields/dimensions/class-redux-dimensions.php:198
+#: inc/options/framework/inc/fields/dimensions/class-redux-dimensions.php:200
+#: inc/options/framework/inc/fields/spacing/class-redux-spacing.php:282
+#: inc/options/framework/inc/fields/spacing/class-redux-spacing.php:283
+msgid "Units"
+msgstr ""
+
+#: inc/options/framework/inc/fields/gallery/class-redux-gallery.php:48
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: inc/options/framework/inc/fields/gallery/class-redux-gallery.php:49
+msgid "Clear Gallery"
+msgstr ""
+
+#: inc/options/framework/inc/fields/link_color/class-redux-link-color.php:65
+msgid "Regular"
+msgstr ""
+
+#: inc/options/framework/inc/fields/link_color/class-redux-link-color.php:87
+msgid "Hover"
+msgstr ""
+
+#: inc/options/framework/inc/fields/link_color/class-redux-link-color.php:109
+msgid "Visited"
+msgstr ""
+
+#: inc/options/framework/inc/fields/link_color/class-redux-link-color.php:131
+msgid "Active"
+msgstr ""
+
+#: inc/options/framework/inc/fields/link_color/class-redux-link-color.php:153
+msgid "Focus"
+msgstr ""
+
+#: inc/options/framework/inc/fields/multi_text/class-redux-multi-text.php:28
+msgid "Add More"
+msgstr ""
+
+#: inc/options/framework/inc/fields/password/class-redux-password.php:53
+msgid "Password"
+msgstr ""
+
+#: inc/options/framework/inc/fields/password/class-redux-password.php:54
+msgid "Username"
+msgstr ""
+
+#: inc/options/framework/inc/fields/select/class-redux-select.php:106
+#: inc/options/framework/inc/fields/select_image/class-redux-select-image.php:26
+msgid "Select an item"
+msgstr ""
+
+#: inc/options/framework/inc/fields/select/class-redux-select.php:183
+#: inc/options/framework/inc/fields/select_image/class-redux-select-image.php:145
+msgid "No items of this type were found."
+msgstr ""
+
+#: inc/options/framework/inc/fields/slides/class-redux-slides.php:32
+msgid "Slide"
+msgstr ""
+
+#: inc/options/framework/inc/fields/slides/class-redux-slides.php:48
+#: inc/options/framework/inc/fields/slides/class-redux-slides.php:233
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: inc/options/framework/inc/fields/slides/class-redux-slides.php:152
+#: inc/options/framework/inc/fields/slides/class-redux-slides.php:288
+msgid "URL"
+msgstr ""
+
+#: inc/options/framework/inc/fields/slides/class-redux-slides.php:363
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: inc/options/framework/inc/fields/switch/class-redux-switch.php:37
+msgid "On"
+msgstr ""
+
+#: inc/options/framework/inc/fields/switch/class-redux-switch.php:40
+msgid "Off"
+msgstr ""
+
+#: inc/options/framework/inc/fields/text/class-redux-text.php:27
+msgid ""
+"The Text field accepts any form of text and optionally validates the text "
+"before saving the value."
+msgstr ""
+
+#: inc/options/framework/inc/fields/text/class-redux-text.php:29
+msgid "Display a qTip div when active on the text field."
+msgstr ""
+
+#: inc/options/framework/inc/fields/text/class-redux-text.php:30
+msgid "Placeholder text."
+msgstr ""
+
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:323
+msgid "Font Family"
+msgstr ""
+
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:325
+msgid "Font family"
+msgstr ""
+
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:364
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:366
+msgid "Backup Font Family"
+msgstr ""
+
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:385
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:405
+msgid "Font style"
+msgstr ""
+
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:386
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:403
+msgid "Style"
+msgstr ""
+
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:418
+msgid "Font subsets"
+msgstr ""
+
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:426
+msgid "Font Subsets"
+msgstr ""
+
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:429
+msgid "Subsets"
+msgstr ""
+
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:431
+msgid "Font script"
+msgstr ""
+
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:445
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:446
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:448
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:450
+msgid "Text Align"
+msgstr ""
+
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:459
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:495
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:521
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:550
+msgid "inherit"
+msgstr ""
+
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:460
+msgid "left"
+msgstr ""
+
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:461
+msgid "right"
+msgstr ""
+
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:462
+msgid "center"
+msgstr ""
+
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:463
+msgid "justify"
+msgstr ""
+
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:464
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:494
+msgid "initial"
+msgstr ""
+
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:476
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:477
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:479
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:481
+msgid "Text Transform"
+msgstr ""
+
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:490
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:549
+msgid "none"
+msgstr ""
+
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:491
+msgid "capitalize"
+msgstr ""
+
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:492
+msgid "uppercase"
+msgstr ""
+
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:493
+msgid "lowercase"
+msgstr ""
+
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:507
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:508
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:510
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:512
+msgid "Font Variant"
+msgstr ""
+
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:522
+msgid "normal"
+msgstr ""
+
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:523
+msgid "small-caps"
+msgstr ""
+
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:535
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:536
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:538
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:540
+msgid "Text Decoration"
+msgstr ""
+
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:551
+msgid "underline"
+msgstr ""
+
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:552
+msgid "overline"
+msgstr ""
+
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:553
+msgid "line-through"
+msgstr ""
+
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:554
+msgid "blink"
+msgstr ""
+
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:569
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:574
+msgid "Font Size"
+msgstr ""
+
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:575
+msgid "Size"
+msgstr ""
+
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:591
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:596
+msgid "Line Height"
+msgstr ""
+
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:619
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:624
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:625
+msgid "Word Spacing"
+msgstr ""
+
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:642
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:647
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:648
+msgid "Letter Spacing"
+msgstr ""
+
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:673
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:678
+msgid "Margin Top"
+msgstr ""
+
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:700
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:705
+msgid "Margin Bottom"
+msgstr ""
+
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:732
+msgid "Font Color"
+msgstr ""
+
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:739
+msgid "Font color"
+msgstr ""
+
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:793
+msgid ""
+"Your Google Fonts are out of date. To update them, please click one of the "
+"following:"
+msgstr ""
+
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:794
+msgid "Automated updates"
+msgstr ""
+
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:794
+msgid "one-time update"
+msgstr ""
+
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:810
+msgid "Shadow color"
+msgstr ""
+
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:822
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:831
+msgid "Horizontal"
+msgstr ""
+
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:839
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:848
+msgid "Vertical"
+msgstr ""
+
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:856
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:865
+msgid "Blur"
+msgstr ""
+
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:905
+msgid "Downloading Google Fonts..."
+msgstr ""
+
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:907
+#, php-format
+msgid "Update Failed|msg. %1$s"
+msgstr ""
+
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:907
+msgid "Retry?"
+msgstr ""
+
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:909
+#, php-format
+msgid "Updated! %1$s to start using your updated fonts."
+msgstr ""
+
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:909
+msgid "Reload the page"
+msgstr ""
+
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:1338
+msgid "Standard Fonts"
+msgstr ""
+
+#: inc/options/framework/inc/fields/typography/class-redux-typography.php:1421
+msgid "Google Webfonts"
+msgstr ""
+
+#: inc/options/framework/inc/lib/gradient-filters/class-redux-gradient-filters.php:44
+msgid "Gradient Type "
+msgstr ""
+
+#: inc/options/framework/inc/lib/gradient-filters/class-redux-gradient-filters.php:47
+msgid "Type"
+msgstr ""
+
+#: inc/options/framework/inc/lib/gradient-filters/class-redux-gradient-filters.php:53
+msgid "linear"
+msgstr ""
+
+#: inc/options/framework/inc/lib/gradient-filters/class-redux-gradient-filters.php:54
+msgid "radial"
+msgstr ""
+
+#: inc/options/framework/inc/lib/gradient-filters/class-redux-gradient-filters.php:82
+msgid "From Reach "
+msgstr ""
+
+#: inc/options/framework/inc/lib/gradient-filters/class-redux-gradient-filters.php:91
+msgid "From Reach"
+msgstr ""
+
+#: inc/options/framework/inc/lib/gradient-filters/class-redux-gradient-filters.php:105
+#: inc/options/framework/inc/lib/gradient-filters/class-redux-gradient-filters.php:114
+msgid "To Reach"
+msgstr ""
+
+#: inc/options/framework/inc/lib/gradient-filters/class-redux-gradient-filters.php:135
+#: inc/options/framework/inc/lib/gradient-filters/class-redux-gradient-filters.php:144
+msgid "Gradient Angle"
+msgstr ""
+
+#: inc/options/framework/inc/lib/image-filters/class-redux-image-filters.php:55
+msgid "Filters"
+msgstr ""
+
+#: inc/options/framework/inc/themecheck/checks/class-redux-embedded.php:43
+#: inc/options/framework/inc/themecheck/checks/class-redux-embedded.php:63
+msgid "RECOMMENDED"
+msgstr ""
+
+#: inc/options/framework/inc/themecheck/checks/class-redux-embedded.php:43
+msgid "If you are submitting to WordPress.org Theme Repository, it is"
+msgstr ""
+
+#: inc/options/framework/inc/themecheck/checks/class-redux-embedded.php:43
+msgid "strongly"
+msgstr ""
+
+#: inc/options/framework/inc/themecheck/checks/class-redux-embedded.php:43
+msgid "suggested that you read"
+msgstr ""
+
+#: inc/options/framework/inc/themecheck/checks/class-redux-embedded.php:43
+msgid "this document"
+msgstr ""
+
+#: inc/options/framework/inc/themecheck/checks/class-redux-embedded.php:43
+msgid "or your theme will be rejected because of Redux."
+msgstr ""
+
+#: inc/options/framework/inc/themecheck/checks/class-redux-embedded.php:50
+msgid "REQUIRED"
+msgstr ""
+
+#: inc/options/framework/inc/themecheck/checks/class-redux-embedded.php:50
+msgid "You MUST delete"
+msgstr ""
+
+#: inc/options/framework/inc/themecheck/checks/class-redux-embedded.php:50
+msgid ""
+"or your theme will be rejected by WP.org theme submission because of Redux."
+msgstr ""
+
+#: inc/options/framework/inc/themecheck/checks/class-redux-embedded.php:63
+msgid ""
+"The following arguments MUST be used for WP.org submissions, or you will be "
+"rejected because of your Redux configuration."
+msgstr ""
+
+#: inc/options/framework/inc/themecheck/checks/class-redux-full-package.php:43
+msgid "Redux localization utilities"
+msgstr ""
+
+#: inc/options/framework/inc/themecheck/checks/class-redux-full-package.php:44
+msgid "Redux Resting Diles"
+msgstr ""
+
+#: inc/options/framework/inc/themecheck/checks/class-redux-full-package.php:45
+msgid "Redux Code Styles"
+msgstr ""
+
+#: inc/options/framework/inc/themecheck/checks/class-redux-full-package.php:46
+msgid "Redux Unit Testing"
+msgstr ""
+
+#: inc/options/framework/inc/themecheck/checks/class-redux-full-package.php:47
+msgid "Redux Plugin File"
+msgstr ""
+
+#: inc/options/framework/inc/themecheck/checks/class-redux-full-package.php:48
+msgid "Redux Boostrap Tests"
+msgstr ""
+
+#: inc/options/framework/inc/themecheck/checks/class-redux-full-package.php:49
+msgid "CI Testing FIle"
+msgstr ""
+
+#: inc/options/framework/inc/themecheck/checks/class-redux-full-package.php:50
+msgid "PHP Unit Testing"
+msgstr ""
+
+#: inc/options/framework/inc/themecheck/checks/class-redux-full-package.php:63
+msgid ""
+"It appears that you have embedded the full Redux package inside your theme. "
+"You need only embed the"
+msgstr ""
+
+#: inc/options/framework/inc/themecheck/checks/class-redux-full-package.php:63
+msgid ""
+"folder. Embedding anything else will get your rejected from theme "
+"submission. Suspected Redux package file(s):"
+msgstr ""
+
+#: inc/options/framework/inc/validation/color/class-redux-validation-color.php:34
+#, php-format
+msgid ""
+"Invalid HTML color code %1$s. Please enter a valid code. No value was saved."
+msgstr ""
+
+#: inc/options/framework/inc/validation/color/class-redux-validation-color.php:46
+#, php-format
+msgid "Sanitized value and saved as %1$s instead of %2$s."
+msgstr ""
+
+#: inc/options/framework/inc/validation/comma_numeric/class-redux-validation-comma-numeric.php:34
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: inc/options/framework/inc/validation/css/class-redux-validation-css.php:27
+msgid "Unsafe strings were found in your CSS and have been filtered out."
+msgstr ""
+
+#: inc/options/framework/inc/validation/date/class-redux-validation-date.php:27
+msgid "This field must be a valid date."
+msgstr ""
+
+#: inc/options/framework/inc/validation/email/class-redux-validation-email.php:27
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: inc/options/framework/inc/validation/html_custom/class-redux-validation-html-custom.php:27
+msgid "Unallowed HTML was found in this field and has been removed."
+msgstr ""
+
+#: inc/options/framework/inc/validation/js/class-redux-validation-js.php:27
+msgid "Javascript has been successfully escaped."
+msgstr ""
+
+#: inc/options/framework/inc/validation/not_empty/class-redux-validation-not-empty.php:27
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: inc/options/framework/inc/validation/no_html/class-redux-validation-no-html.php:27
+msgid "You must not enter any HTML in this field.  All HTML has been removed."
+msgstr ""
+
+#: inc/options/framework/inc/validation/no_special_chars/class-redux-validation-no-special-chars.php:27
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: inc/options/framework/inc/validation/numeric/class-redux-validation-numeric.php:27
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: inc/options/framework/inc/validation/unique_slug/class-redux-validation-unique-slug.php:29
+msgid "That URL slug is in use, please choose another."
+msgstr ""
+
+#: inc/options/framework/inc/validation/url/class-redux-validation-url.php:27
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: inc/options/framework/inc/welcome/class-redux-welcome.php:96
+msgid "If you like"
+msgstr ""
+
+#: inc/options/framework/inc/welcome/class-redux-welcome.php:96
+msgid "please leave us a"
+msgstr ""
+
+#: inc/options/framework/inc/welcome/class-redux-welcome.php:96
+msgid "rating. A huge thank you in advance!"
+msgstr ""
+
+#: inc/options/framework/inc/welcome/class-redux-welcome.php:113
+msgid "What is Redux Framework?"
+msgstr ""
+
+#: inc/options/framework/inc/welcome/class-redux-welcome.php:117
+#: inc/options/framework/inc/welcome/class-redux-welcome.php:192
+msgid "Templates"
+msgstr ""
+
+#: inc/options/framework/inc/welcome/class-redux-welcome.php:186
+msgid "What is Redux?"
+msgstr ""
+
+#: inc/options/framework/inc/welcome/class-redux-welcome.php:261
+msgid "Disable Panel Demo"
+msgstr ""
+
+#: inc/options/framework/inc/welcome/class-redux-welcome.php:267
+msgid "Enable Panel Demo"
+msgstr ""
+
+#: inc/options/framework/inc/welcome/views/about.php:17
+#: inc/options/framework/inc/welcome/views/templates.php:15
+msgid "Welcome to"
+msgstr ""
+
+#: inc/options/framework/inc/welcome/views/about.php:21
+#: inc/options/framework/inc/welcome/views/templates.php:19
+msgid ""
+"Redux is the world's most powerful and widely used WordPress interface "
+"builder. We are trusted by millions of developers and end users world-wide."
+msgstr ""
+
+#: inc/options/framework/inc/welcome/views/about.php:39
+msgid "Did I install this?"
+msgstr ""
+
+#: inc/options/framework/inc/welcome/views/about.php:43
+msgid ""
+"Maybe not! These items are using Redux. If you want to keep using them, "
+"Redux will need to remain installed and activated."
+msgstr ""
+
+#: inc/options/framework/inc/welcome/views/about.php:54
+#, php-format
+msgid ""
+"Maybe not! If you want to see what Redux is all about, click here to "
+"%1$sActivate Demo Mode%2$s."
+msgstr ""
+
+#: inc/options/framework/inc/welcome/views/about.php:81
+msgid "Version:"
+msgstr ""
+
+#: inc/options/framework/inc/welcome/views/about.php:86
+#: inc/options/framework/inc/welcome/views/about.php:139
+msgid "By"
+msgstr ""
+
+#: inc/options/framework/inc/welcome/views/about.php:93
+msgid "Theme"
+msgstr ""
+
+#: inc/options/framework/inc/welcome/views/about.php:145
+msgid "Plugin"
+msgstr ""
+
+#: inc/options/framework/inc/welcome/views/templates.php:34
+msgid " Template Libraries"
+msgstr ""
+
+#: inc/options/framework/inc/welcome/views/templates.php:45
+msgid "Extendify Template Library"
+msgstr ""
+
+#: inc/options/framework/inc/welcome/views/templates.php:49
+msgid "Load Extendify template library"
+msgstr ""
+
+#: inc/options/framework/templates/panel/footer.tpl.php:59
+#: inc/options/framework/templates/panel/header-stickybar.tpl.php:22
+#: inc/options/templates/panel/footer.tpl.php:65
+#: inc/options/templates/panel/header-stickybar.tpl.php:22
+msgid "Save Changes"
+msgstr ""
+
+#: inc/options/framework/templates/panel/footer.tpl.php:63
+#: inc/options/framework/templates/panel/header-stickybar.tpl.php:26
+#: inc/options/templates/panel/footer.tpl.php:69
+#: inc/options/templates/panel/header-stickybar.tpl.php:26
+msgid "Reset Section"
+msgstr ""
+
+#: inc/options/framework/templates/panel/footer.tpl.php:64
+#: inc/options/framework/templates/panel/header-stickybar.tpl.php:27
+#: inc/options/templates/panel/footer.tpl.php:70
+#: inc/options/templates/panel/header-stickybar.tpl.php:27
+msgid "Reset All"
+msgstr ""
+
+#: inc/options/framework/templates/panel/footer.tpl.php:68
+#: inc/options/framework/templates/panel/header-stickybar.tpl.php:31
+#: inc/options/templates/panel/footer.tpl.php:74
+#: inc/options/templates/panel/header-stickybar.tpl.php:31
+msgid "Working..."
+msgstr ""
+
+#: inc/options/framework/templates/panel/header.tpl.php:11
+#: inc/options/framework/templates/panel/header.tpl.php:48
+#: inc/options/templates/panel/header.tpl.php:11
+#: inc/options/templates/panel/header.tpl.php:53
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: inc/options/framework/templates/panel/header.tpl.php:20
+#: inc/options/templates/panel/header.tpl.php:20
+msgid "WP_DEBUG is enabled"
+msgstr ""
+
+#: inc/options/framework/templates/panel/header.tpl.php:26
+#: inc/options/templates/panel/header.tpl.php:26
+msgid "you are working in a localhost environment"
+msgstr ""
+
+#: inc/options/framework/templates/panel/header.tpl.php:31
+#: inc/options/templates/panel/header.tpl.php:31
+msgid "and"
+msgstr ""
+
+#: inc/options/framework/templates/panel/header.tpl.php:34
+#: inc/options/templates/panel/header.tpl.php:34
+msgid "This has been automatically enabled because"
+msgstr ""
+
+#: inc/options/framework/templates/panel/header.tpl.php:36
+#: inc/options/templates/panel/header.tpl.php:36
+msgid ""
+"If you are not a developer, your theme/plugin author shipped with developer "
+"mode enabled. Contact them directly to fix it."
+msgstr ""
+
+#: inc/options/templates/panel/footer.tpl.php:19
+msgid "Settings saved successfully"
+msgstr ""
+
+#: inc/options/templates/panel/footer.tpl.php:22
+msgid "Settings could not be saved successfully"
+msgstr ""
